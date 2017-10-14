@@ -101,5 +101,10 @@ def get_lines():
 
 LINES = tuple(get_lines())
 
+
+def get_line():
+    return choice(LINES)
+
+
 if __name__ == '__main__':
-    print(choice(LINES))
+    print(get_line())

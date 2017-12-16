@@ -18,7 +18,11 @@ def _nodes_that_are_ayoade(caption):
 
             if (
                 next_node.type_ == CaptionNode.TEXT and
-                next_node.content != next_node.content.upper()
+                next_node.content != next_node.content.upper() and (
+                    ': ' not in next_node.content or
+                    next_node.content.split(': ')[0].upper() !=
+                    next_node.content.split(': ')[0]
+                )
             ):
                 yield next_node
 

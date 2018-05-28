@@ -1,0 +1,1258 @@
+<SAMI>
+<Head>
+<style TYPE="text/css+">
+
+<!--
+
+P {	margin-left:  1pt;
+margin-right: 1pt;
+margin-bottom: 2pt;
+margin-top: 2pt;
+text-align: center;
+font-size: 1.4em;
+font-family: Tahoma;
+font-weight: normal;
+font-style: normal;
+color: #ffffff; }
+
+#Small {Name:SmallTxt; font-family:Tahoma;font-weight:normal;font-size:1.4em;color:#ffffff;}
+#Big {Name:BigTxt; font-family:Tahoma;font-weight:bold;font-size:1.5em;color:#ffffff;}
+.ENCC {Name:English; lang: en-US; SAMI_Type: CC;}
+
+-->
+
+</style>
+
+</Head>
+
+<Body>
+
+
+<Sync Start="0"><P class="ENCC"></P></Sync>
+<Sync Start="2000"><P class="ENCC"><span style="color:white;">Here we find ourselves,</span><br><span style="color:white;">a week to the wise,</span></P></Sync>
+<Sync Start="4120"><P class="ENCC"><span style="color:white;">for a fresh foray into the unknown -</span><br><span style="color:white;">or, depending on your view,</span></P></Sync>
+<Sync Start="8000"><P class="ENCC"><span style="color:white;">a minute variation on a pretty</span><br><span style="color:white;">inflexible format.</span></P></Sync>
+<Sync Start="11080"><P class="ENCC"><span style="color:white;">Regardless, let's enter</span><br><span style="color:white;">the Crystal Maze.</span></P></Sync>
+<Sync Start="15080"><P class="ENCC"></P></Sync>
+<Sync Start="46720"><P class="ENCC"><span style="color:white;">Hello. Welcome to the Crystal Maze.</span></P></Sync>
+<Sync Start="49200"><P class="ENCC"><span style="color:white;">I'm Richard Ayoade, and I'll be</span><br><span style="color:white;">acting within what is an</span></P></Sync>
+<Sync Start="52560"><P class="ENCC"><span style="color:white;">admittedly limited range as your</span><br><span style="color:white;">guide around the Crystal Maze.</span></P></Sync>
+<Sync Start="55840"><P class="ENCC"><span style="color:white;">I'm like Kirstie Allsopp -</span></P></Sync>
+<Sync Start="57080"><P class="ENCC"><span style="color:white;">if she were not Kirstie Allsopp and</span><br><span style="color:white;">were instead me.</span></P></Sync>
+<Sync Start="60040"><P class="ENCC"><span style="color:white;">As ever, I'll be showing five hardy</span><br><span style="color:white;">travellers around the maze as they</span></P></Sync>
+<Sync Start="63280"><P class="ENCC"><span style="color:white;">attempt a series of challenges in</span><br><span style="color:white;">pursuit of a crop of crystals.</span></P></Sync>
+<Sync Start="66240"><P class="ENCC"><span style="color:white;">The more crystals they win,</span></P></Sync>
+<Sync Start="67640"><P class="ENCC"><span style="color:white;">the more time they get to spend in</span><br><span style="color:white;">the Crystal Dome,</span></P></Sync>
+<Sync Start="69720"><P class="ENCC"><span style="color:white;">where they can gather tokens, which</span><br><span style="color:white;">can later be exchanged for a prize</span></P></Sync>
+<Sync Start="72800"><P class="ENCC"><span style="color:white;">that's of questionable value.</span></P></Sync>
+<Sync Start="74560"><P class="ENCC"><span style="color:white;">Let's meet this week's team.</span></P></Sync>
+<Sync Start="77600"><P class="ENCC"><span style="color:white;">Ash Robertson, quality technician</span><br><span style="color:white;">and bass guitar in Black Ice.</span></P></Sync>
+<Sync Start="81600"><P class="ENCC"></P></Sync>
+<Sync Start="83000"><P class="ENCC"><span style="color:white;">Mike Robertson, quality engineer and</span><br><span style="color:white;">lead singer of Black Ice.</span></P></Sync>
+<Sync Start="87000"><P class="ENCC"></P></Sync>
+<Sync Start="88360"><P class="ENCC"><span style="color:white;">Elliott Robertson, IT controller</span></P></Sync>
+<Sync Start="90720"><P class="ENCC"><span style="color:white;">and drummer in Black Ice.</span></P></Sync>
+<Sync Start="93840"><P class="ENCC"><span style="color:white;">Gary Robertson, IT manager</span></P></Sync>
+<Sync Start="96160"><P class="ENCC"><span style="color:white;">and lead guitarist in Black Ice.</span></P></Sync>
+<Sync Start="99640"><P class="ENCC"><span style="color:white;">And Kane Armstrong - who is not a</span><br><span style="color:white;">Robertson - civil servant</span></P></Sync>
+<Sync Start="103640"><P class="ENCC"></P></Sync>
+<Sync Start="104040"><P class="ENCC"><span style="color:white;">and rhythm guitar in Black Ice.</span></P></Sync>
+<Sync Start="107080"><P class="ENCC"><span style="color:white;">They are AC/DC tribute band</span><br><span style="color:white;">Black Ice.</span></P></Sync>
+<Sync Start="111080"><P class="ENCC"></P></Sync>
+<Sync Start="113080"><P class="ENCC"><span style="color:white;">Welcome to the outer rim of the</span><br><span style="color:white;">Crystal Maze.</span></P></Sync>
+<Sync Start="116200"><P class="ENCC"><span style="color:white;">It excites me to hear that you are</span></P></Sync>
+<Sync Start="119240"><P class="ENCC"><span style="color:white;">the North East's only surviving</span><br><span style="color:white;">AC/DC tribute band.  </span><span style="color:yellow;">Yes!  </span><span style="color:cyan;">Yes!</span></P></Sync>
+<Sync Start="123240"><P class="ENCC"></P></Sync>
+<Sync Start="124880"><P class="ENCC"><span style="color:white;">What happened to the others -</span><br><span style="color:white;">were they hit by an asteroid?</span></P></Sync>
+<Sync Start="127360"><P class="ENCC"><span style="color:white;">Why didn't they survive?</span></P></Sync>
+<Sync Start="128480"><P class="ENCC"><span style="color:yellow;">Well, when we came on the scene...</span></P></Sync>
+<Sync Start="130360"><P class="ENCC"><span style="color:white;">You blew them away.  </span><span style="color:yellow;">..we blew them</span><br><span style="color:yellow;">away, literally.</span></P></Sync>
+<Sync Start="132560"><P class="ENCC"><span style="color:white;">You were the asteroid.</span><br><span style="color:yellow;">We turned it up to 11.</span></P></Sync>
+<Sync Start="134440"><P class="ENCC"><span style="color:white;">That is excellent to hear.</span></P></Sync>
+<Sync Start="136200"><P class="ENCC"><span style="color:white;">And you're called Black Ice.</span><br><span style="color:yellow;">Black Ice, yes.</span></P></Sync>
+<Sync Start="138840"><P class="ENCC"><span style="color:white;">Which you want to avoid on the road.</span></P></Sync>
+<Sync Start="140560"><P class="ENCC"><span style="color:yellow;">Of course.  </span><span style="color:white;">But not in rock.</span></P></Sync>
+<Sync Start="142240"><P class="ENCC"><span style="color:yellow;">No. Of course not.</span></P></Sync>
+<Sync Start="143440"><P class="ENCC"><span style="color:white;">This is excellent. You're called</span><br><span style="color:white;">Ash.</span></P></Sync>
+<Sync Start="146040"><P class="ENCC"><span style="color:yellow;">Yes.  </span><span style="color:white;">You're the captain.</span></P></Sync>
+<Sync Start="147280"><P class="ENCC"><span style="color:yellow;">I am indeed.  </span><span style="color:white;">But one of you is his</span><br><span style="color:white;">father?</span></P></Sync>
+<Sync Start="151240"><P class="ENCC"><span style="color:cyan;">Yes, that's me.  </span><span style="color:white;">You, Mike.</span></P></Sync>
+<Sync Start="153000"><P class="ENCC"><span style="color:white;">You're the vice-captain.</span></P></Sync>
+<Sync Start="154440"><P class="ENCC"><span style="color:white;">You're his father.</span></P></Sync>
+<Sync Start="155640"><P class="ENCC"><span style="color:cyan;">Yes.  </span><span style="color:white;">That's your brother.</span><br><span style="color:#11FF11;">Yes.  </span><span style="color:cyan;">It is. Gary.  </span><span style="color:white;">Red Gary.</span></P></Sync>
+<Sync Start="159000"><P class="ENCC"><span style="color:white;">Ash, your brother is this fellow</span><br><span style="color:white;">here.</span></P></Sync>
+<Sync Start="162040"><P class="ENCC"><span style="color:yellow;">Yeah, Elliott.  </span><span style="color:white;">Yellow Elliott.</span></P></Sync>
+<Sync Start="163480"><P class="ENCC"><span style="color:yellow;">Yellow Elliott.  </span><span style="color:white;">I'm going to call</span><br><span style="color:white;">you Yelliott,</span></P></Sync>
+<Sync Start="165480"><P class="ENCC"><span style="color:white;">in order to better remember.</span></P></Sync>
+<Sync Start="168000"><P class="ENCC"><span style="color:white;">Blue Mike, red Gary, purple Kane.</span></P></Sync>
+<Sync Start="171920"><P class="ENCC"><span style="color:white;">You're not related?  </span><span style="color:cyan;">No.</span></P></Sync>
+<Sync Start="173520"><P class="ENCC"><span style="color:white;">OK.  </span><span style="color:yellow;">Best friend.</span></P></Sync>
+<Sync Start="175440"><P class="ENCC"><span style="color:white;">Uncle Gary, what do you play in the</span><br><span style="color:white;">band?</span></P></Sync>
+<Sync Start="178120"><P class="ENCC"><span style="color:#11FF11;">I'm the lead guitarist.</span></P></Sync>
+<Sync Start="179440"><P class="ENCC"><span style="color:white;">Lead guitarist.  </span><span style="color:#11FF11;">Yes.</span></P></Sync>
+<Sync Start="180720"><P class="ENCC"><span style="color:white;">Excellent. You?</span></P></Sync>
+<Sync Start="182120"><P class="ENCC"><span style="color:cyan;">I'm a singer.  </span><span style="color:white;">Please.</span></P></Sync>
+<Sync Start="184000"><P class="ENCC"><span style="color:cyan;">Do you want a blast?  </span><span style="color:white;">I mean, as if</span><br><span style="color:white;">you need to ask.</span></P></Sync>
+<Sync Start="186680"><P class="ENCC"><span style="color:white;">Do I need to stand back?</span></P></Sync>
+<Sync Start="188000"><P class="ENCC"><span style="color:cyan;"># Rock and roll! #</span></P></Sync>
+<Sync Start="189400"><P class="ENCC"><span style="color:white;">Oh, that's so good.</span></P></Sync>
+<Sync Start="190840"><P class="ENCC"><span style="color:white;">I mean, I can't tell you how much</span><br><span style="color:white;">I'm looking forward to this.</span></P></Sync>
+<Sync Start="193480"><P class="ENCC"><span style="color:white;">LAUGHTER</span></P></Sync>
+<Sync Start="194880"><P class="ENCC"><span style="color:white;">Ash, what do you do?</span></P></Sync>
+<Sync Start="196560"><P class="ENCC"><span style="color:white;">You play guitar?  </span><span style="color:yellow;">I'm the bass -</span><br><span style="color:yellow;">bass guitarist.</span></P></Sync>
+<Sync Start="198480"><P class="ENCC"><span style="color:white;">You're the bass guitarist.  </span><span style="color:yellow;">But I</span><br><span style="color:yellow;">sing backing vocals as well so,</span></P></Sync>
+<Sync Start="201200"><P class="ENCC"><span style="color:yellow;">you know, I can pump the vocals out</span><br><span style="color:yellow;">as well.</span><br><span style="color:yellow;"># All right! #</span></P></Sync>
+<Sync Start="203640"><P class="ENCC"><span style="color:white;">OK. As soon as you said bass guitar,</span><br><span style="color:white;">everyone drifted off -</span></P></Sync>
+<Sync Start="206200"><P class="ENCC"><span style="color:white;">you know that. That's why you had to</span><br><span style="color:white;">become captain.</span></P></Sync>
+<Sync Start="208480"><P class="ENCC"><span style="color:white;">It's your payback.  </span><span style="color:yellow;">Yeah, that's it.</span></P></Sync>
+<Sync Start="210120"><P class="ENCC"><span style="color:yellow;">You've seen through me now.</span></P></Sync>
+<Sync Start="211280"><P class="ENCC"><span style="color:white;">Are you going to finally assert your</span><br><span style="color:white;">authority?</span></P></Sync>
+<Sync Start="213280"><P class="ENCC"><span style="color:yellow;">Absolutely. This is THE moment.</span></P></Sync>
+<Sync Start="214880"><P class="ENCC"><span style="color:yellow;">I'm ready to conquer what looks like</span><br><span style="color:yellow;">the Industrial Zone.</span></P></Sync>
+<Sync Start="217440"><P class="ENCC"><span style="color:white;">Exactly, that's right, because AC/DC</span><br><span style="color:white;">do have some plodding bass rhythms.</span></P></Sync>
+<Sync Start="221440"><P class="ENCC"></P></Sync>
+<Sync Start="222080"><P class="ENCC"><span style="color:yellow;">Yes.  </span><span style="color:white;">You're already my favourite</span><br><span style="color:white;">AC/DC tribute band from the</span><br><span style="color:white;">North East.</span></P></Sync>
+<Sync Start="226080"><P class="ENCC"></P></Sync>
+<Sync Start="226640"><P class="ENCC"><span style="color:cyan;">Yes!  </span><span style="color:white;">I'm going to lay that down now.</span></P></Sync>
+<Sync Start="229120"><P class="ENCC"><span style="color:white;">We're outside the Industrial Zone.</span></P></Sync>
+<Sync Start="230960"><P class="ENCC"><span style="color:white;">The crystals we seek are within.</span></P></Sync>
+<Sync Start="233640"><P class="ENCC"><span style="color:white;">How do we get in? Which one of you</span><br><span style="color:white;">is prepared to admit that they can</span></P></Sync>
+<Sync Start="237360"><P class="ENCC"><span style="color:white;">break in and enter premises at will?</span></P></Sync>
+<Sync Start="239680"><P class="ENCC"><span style="color:yellow;">Kane.  </span><span style="color:cyan;">Kane.  </span><span style="color:#11FF11;">Kane.</span></P></Sync>
+<Sync Start="240800"><P class="ENCC"><span style="color:yellow;">You can fit through that gap.</span><br><span style="color:white;">Off you go.</span></P></Sync>
+<Sync Start="242640"><P class="ENCC"><span style="color:yellow;">Go for it.  </span><span style="color:white;">You can use these</span><br><span style="color:white;">barrels.</span></P></Sync>
+<Sync Start="246640"><P class="ENCC"></P></Sync>
+<Sync Start="247080"><P class="ENCC"><span style="color:white;">I cannot help.</span></P></Sync>
+<Sync Start="248440"><P class="ENCC"><span style="color:white;">I will not be associated with</span><br><span style="color:white;">ragamuffinry.</span></P></Sync>
+<Sync Start="252440"><P class="ENCC"></P></Sync>
+<Sync Start="252960"><P class="ENCC"><span style="color:white;">Look at that little guy. Up he goes.</span></P></Sync>
+<Sync Start="255480"><P class="ENCC"><span style="color:yellow;">Will you try and cut this chain?</span></P></Sync>
+<Sync Start="256880"><P class="ENCC"><span style="color:cyan;">Bolt cutters.  </span><span style="color:white;">Easily done! Now, do</span><br><span style="color:white;">not cut that bolt.</span></P></Sync>
+<Sync Start="259320"><P class="ENCC"><span style="color:white;">We do not have the budget to go</span><br><span style="color:white;">through bolts, willy-nilly.</span></P></Sync>
+<Sync Start="262240"><P class="ENCC"><span style="color:white;">Just use the chain.</span><br><span style="color:white;">The chain's fine.</span></P></Sync>
+<Sync Start="264680"><P class="ENCC"><span style="color:white;">It keeps getting shorter with each</span><br><span style="color:white;">show.</span></P></Sync>
+<Sync Start="266760"><P class="ENCC"><span style="color:white;">Ah. You made light work.</span></P></Sync>
+<Sync Start="268560"><P class="ENCC"><span style="color:white;">In we go. Follow me!</span></P></Sync>
+<Sync Start="270640"><P class="ENCC"><span style="color:white;">Follow the hand.</span></P></Sync>
+<Sync Start="274640"><P class="ENCC"></P></Sync>
+<Sync Start="277800"><P class="ENCC"><span style="color:white;">Follow the hand. Tuck in here.</span></P></Sync>
+<Sync Start="280280"><P class="ENCC"><span style="color:white;">Tuck in here.</span></P></Sync>
+<Sync Start="282200"><P class="ENCC"><span style="color:white;">Don't worry about why that's</span><br><span style="color:white;">bubbling.</span></P></Sync>
+<Sync Start="285080"><P class="ENCC"><span style="color:white;">No need to concern yourself.</span></P></Sync>
+<Sync Start="286880"><P class="ENCC"><span style="color:white;">Welcome to the Industrial Zone.</span></P></Sync>
+<Sync Start="288400"><P class="ENCC"><span style="color:white;">This, of course, is what the</span><br><span style="color:white;">North East looked like during its</span><br><span style="color:white;">heyday.</span></P></Sync>
+<Sync Start="292400"><P class="ENCC"></P></Sync>
+<Sync Start="293200"><P class="ENCC"><span style="color:white;">So, as we journey through the maze,</span><br><span style="color:white;">we will encounter four types of</span><br><span style="color:white;">game -</span></P></Sync>
+<Sync Start="296520"><P class="ENCC"><span style="color:white;">skill, physical, mystery, mental.</span></P></Sync>
+<Sync Start="298320"><P class="ENCC"><span style="color:white;">The first type is a skill game.</span></P></Sync>
+<Sync Start="300240"><P class="ENCC"><span style="color:white;">Captain Ash, who's playing?</span></P></Sync>
+<Sync Start="302320"><P class="ENCC"><span style="color:cyan;">OK, for this one I'd like to pick my</span><br><span style="color:cyan;">brother, El.</span></P></Sync>
+<Sync Start="305200"><P class="ENCC"><span style="color:white;">Yelliott.  </span><span style="color:cyan;">Yelliott.</span></P></Sync>
+<Sync Start="306760"><P class="ENCC"><span style="color:white;">Come with me. Let's go.</span></P></Sync>
+<Sync Start="309440"><P class="ENCC"><span style="color:white;">Tuck in. You stay there!</span></P></Sync>
+<Sync Start="311720"><P class="ENCC"><span style="color:white;">You're going to watch on this</span><br><span style="color:white;">monitor.</span></P></Sync>
+<Sync Start="313920"><P class="ENCC"><span style="color:cyan;">Right.  </span><span style="color:#11FF11;">OK.  </span><span style="color:white;">Yelliott, you're going</span><br><span style="color:white;">in.</span></P></Sync>
+<Sync Start="316840"><P class="ENCC"><span style="color:white;">They're going to watch here.</span><br><span style="color:white;">You can encourage.</span></P></Sync>
+<Sync Start="318840"><P class="ENCC"><span style="color:cyan;">Come on, Elliott! Come on!</span></P></Sync>
+<Sync Start="319960"><P class="ENCC"><span style="color:white;">You've got three minutes from when</span><br><span style="color:white;">I close this door.</span></P></Sync>
+<Sync Start="322400"><P class="ENCC"><span style="color:white;">I believe in you. This is going to</span><br><span style="color:white;">be wonderful.</span></P></Sync>
+<Sync Start="324520"><P class="ENCC"><span style="color:cyan;">Come on, drummer boy.  </span><span style="color:white;">In</span><br><span style="color:white;">you go.  </span><span style="color:#11FF11;">Don't dawdle!</span></P></Sync>
+<Sync Start="326640"><P class="ENCC"><span style="color:cyan;">Come on!  </span><span style="color:#11FF11;">Come on, Elliott!</span></P></Sync>
+<Sync Start="328080"><P class="ENCC"><span style="color:white;">Do you know what you need to do?</span><br><span style="color:yellow;">I can see some sort of metal system</span></P></Sync>
+<Sync Start="332080"><P class="ENCC"></P></Sync>
+<Sync Start="332440"><P class="ENCC"><span style="color:yellow;">in front of me. There's</span><br><span style="color:yellow;">hammers, there's spanners,</span></P></Sync>
+<Sync Start="334880"><P class="ENCC"><span style="color:yellow;">there's all sorts.  </span><span style="color:white;">OK.</span></P></Sync>
+<Sync Start="336880"><P class="ENCC"><span style="color:yellow;">Looks like I need to twist the</span><br><span style="color:yellow;">carousel.</span></P></Sync>
+<Sync Start="339800"><P class="ENCC"><span style="color:yellow;">It's like a generator.</span></P></Sync>
+<Sync Start="341000"><P class="ENCC"><span style="color:yellow;">I can see the crystal on the</span><br><span style="color:yellow;">right-hand side.</span></P></Sync>
+<Sync Start="343240"><P class="ENCC"><span style="color:white;">Very thorough...  </span><span style="color:cyan;">What does it say on</span><br><span style="color:cyan;">the right-hand side?</span></P></Sync>
+<Sync Start="345280"><P class="ENCC"><span style="color:white;">..communication. Good communication</span><br><span style="color:white;">from Yelliott.</span></P></Sync>
+<Sync Start="347960"><P class="ENCC"><span style="color:yellow;">There isn't anything that I can</span><br><span style="color:yellow;">see.</span></P></Sync>
+<Sync Start="349840"><P class="ENCC"><span style="color:cyan;">There's nothing written? Twist the</span><br><span style="color:cyan;">carousel, then.  </span><span style="color:#11FF11;">Twist the carousel.</span></P></Sync>
+<Sync Start="353840"><P class="ENCC"></P></Sync>
+<Sync Start="355000"><P class="ENCC"><span style="color:cyan;">Twist it - keep going. Keep going!</span></P></Sync>
+<Sync Start="356400"><P class="ENCC"><span style="color:yellow;">I need a key or something.</span><br><span style="color:white;">30 seconds gone.</span></P></Sync>
+<Sync Start="358480"><P class="ENCC"><span style="color:yellow;">A spanner.  </span><span style="color:cyan;">Spanner - get the</span><br><span style="color:cyan;">spanner!</span></P></Sync>
+<Sync Start="360320"><P class="ENCC"><span style="color:cyan;">Twist it round, get the spanner.</span></P></Sync>
+<Sync Start="361960"><P class="ENCC"><span style="color:yellow;">Where's the spanner?  </span><span style="color:cyan;">Open the door.</span></P></Sync>
+<Sync Start="364000"><P class="ENCC"><span style="color:cyan;">Keep going. The spanner's a bit</span><br><span style="color:cyan;">further round.  </span><span style="color:#11FF11;">Keep going.</span></P></Sync>
+<Sync Start="366360"><P class="ENCC"><span style="color:#11FF11;">The spanner's coming round.</span></P></Sync>
+<Sync Start="367440"><P class="ENCC"><span style="color:#11FF11;">Keep going!  </span><span style="color:cyan;">Go, go, go, spanner!</span></P></Sync>
+<Sync Start="369160"><P class="ENCC"><span style="color:cyan;">Keep going! Keep going!</span><br><span style="color:#11FF11;">A bit more.  </span><span style="color:cyan;">Keep going.</span></P></Sync>
+<Sync Start="372080"><P class="ENCC"><span style="color:cyan;">We can tell you - we can see.</span></P></Sync>
+<Sync Start="373440"><P class="ENCC"><span style="color:#11FF11;">That's it, that's it.  </span><span style="color:cyan;">You've got it.</span></P></Sync>
+<Sync Start="375200"><P class="ENCC"><span style="color:cyan;">You've got it. You've got the</span><br><span style="color:cyan;">spanner.</span></P></Sync>
+<Sync Start="376880"><P class="ENCC"><span style="color:cyan;">Wrong side.  </span><span style="color:#11FF11;">Use the wrench!</span></P></Sync>
+<Sync Start="380880"><P class="ENCC"></P></Sync>
+<Sync Start="381320"><P class="ENCC"><span style="color:#11FF11;">Use the wrench.</span></P></Sync>
+<Sync Start="383160"><P class="ENCC"><span style="color:white;">Of course, there's currently a</span><br><span style="color:white;">tribute to this show</span></P></Sync>
+<Sync Start="386600"><P class="ENCC"><span style="color:white;">being done in London,</span><br><span style="color:white;">by a London AC/DC cover band.</span></P></Sync>
+<Sync Start="390600"><P class="ENCC"></P></Sync>
+<Sync Start="390680"><P class="ENCC"><span style="color:cyan;">Use the wrench!  </span><span style="color:white;">One minute gone.</span></P></Sync>
+<Sync Start="392040"><P class="ENCC"><span style="color:cyan;">OK, get the next spanner.</span></P></Sync>
+<Sync Start="395000"><P class="ENCC"><span style="color:white;">OK.  </span><span style="color:yellow;">Tell me when it's there.</span></P></Sync>
+<Sync Start="396520"><P class="ENCC"><span style="color:cyan;">Keep going, keep going.</span><br><span style="color:#11FF11;">Faster!  </span><span style="color:cyan;">Keep going, keep going.</span></P></Sync>
+<Sync Start="400520"><P class="ENCC"></P></Sync>
+<Sync Start="403120"><P class="ENCC"><span style="color:white;">What's he getting now?</span></P></Sync>
+<Sync Start="405320"><P class="ENCC"><span style="color:white;">He's in.  </span><span style="color:cyan;">Has he got it?</span></P></Sync>
+<Sync Start="406480"><P class="ENCC"><span style="color:#11FF11;">He's in.  </span><span style="color:cyan;">Keep going.</span></P></Sync>
+<Sync Start="408000"><P class="ENCC"><span style="color:cyan;">Keep going.  </span><span style="color:yellow;">How long have I got</span><br><span style="color:yellow;">left?</span></P></Sync>
+<Sync Start="409840"><P class="ENCC"><span style="color:#11FF11;">Plenty of time.  </span><span style="color:cyan;">Plenty time left.</span></P></Sync>
+<Sync Start="411600"><P class="ENCC"><span style="color:yellow;">How long, how long?</span><br><span style="color:cyan;">How long have we got?</span></P></Sync>
+<Sync Start="413600"><P class="ENCC"><span style="color:white;">I'll tell you - you've got about</span><br><span style="color:white;">1 minute 35.</span></P></Sync>
+<Sync Start="416840"><P class="ENCC"><span style="color:#11FF11;">1 minute 35 left!</span></P></Sync>
+<Sync Start="418200"><P class="ENCC"><span style="color:white;">OK.  </span><span style="color:#11FF11;">Keep going.  </span><span style="color:cyan;">Keep going, El!</span></P></Sync>
+<Sync Start="420360"><P class="ENCC"><span style="color:white;">They're very excited.</span><br><span style="color:yellow;">There's another layer.</span></P></Sync>
+<Sync Start="422360"><P class="ENCC"><span style="color:yellow;">There's an Allen key.</span><br><span style="color:cyan;">Get the Allen key, quick!</span></P></Sync>
+<Sync Start="424120"><P class="ENCC"><span style="color:#11FF11;">Get the Allen key!  </span><span style="color:yellow;">Where is it?</span></P></Sync>
+<Sync Start="425520"><P class="ENCC"><span style="color:#11FF11;">Keep going round.  </span><span style="color:cyan;">Twist it round.</span></P></Sync>
+<Sync Start="427040"><P class="ENCC"><span style="color:#11FF11;">Keep rotating it round.</span><br><span style="color:#11FF11;">Twist it round!</span></P></Sync>
+<Sync Start="428920"><P class="ENCC"><span style="color:cyan;">Look for the Allen key!</span><br><span style="color:cyan;">Look for the Allen key.</span></P></Sync>
+<Sync Start="430880"><P class="ENCC"><span style="color:#11FF11;">Keep going, keep going! Keep going,</span><br><span style="color:#11FF11;">keep going...</span></P></Sync>
+<Sync Start="433080"><P class="ENCC"><span style="color:cyan;">Keep going, keep going!</span></P></Sync>
+<Sync Start="434560"><P class="ENCC"><span style="color:#11FF11;">Keep going. We can see it!</span></P></Sync>
+<Sync Start="435800"><P class="ENCC"><span style="color:cyan;">We can see it coming.</span><br><span style="color:cyan;">Keep going round.</span></P></Sync>
+<Sync Start="439240"><P class="ENCC"><span style="color:cyan;">Keep going. Keep going - Allen key,</span><br><span style="color:cyan;">coming up!</span></P></Sync>
+<Sync Start="441360"><P class="ENCC"><span style="color:white;">They're focused...  </span><span style="color:cyan;">Yeah, coming up</span><br><span style="color:cyan;">there, coming up!</span></P></Sync>
+<Sync Start="443840"><P class="ENCC"><span style="color:white;">They're doing well.</span></P></Sync>
+<Sync Start="444880"><P class="ENCC"><span style="color:cyan;">You see it?  </span><span style="color:#11FF11;">There it is, there.</span><br><span style="color:cyan;">That's it, that's it!</span></P></Sync>
+<Sync Start="447080"><P class="ENCC"><span style="color:#11FF11;">Quickly, quickly!  </span><span style="color:cyan;">Go!</span><br><span style="color:white;">Very encouraging.</span></P></Sync>
+<Sync Start="448880"><P class="ENCC"><span style="color:cyan;">You're nearly there, El.</span></P></Sync>
+<Sync Start="450640"><P class="ENCC"><span style="color:white;">It's looking at a direct correlation</span><br><span style="color:white;">between the amount he says...</span></P></Sync>
+<Sync Start="453520"><P class="ENCC"><span style="color:#11FF11;">Quickly.  </span><span style="color:white;">..and the</span><br><span style="color:white;">encouragement given.</span></P></Sync>
+<Sync Start="455640"><P class="ENCC"><span style="color:#11FF11;">Keep going, El.  </span><span style="color:cyan;">Come on!</span></P></Sync>
+<Sync Start="458640"><P class="ENCC"><span style="color:white;">50 seconds left.  </span><span style="color:cyan;">50. Go on!</span></P></Sync>
+<Sync Start="460880"><P class="ENCC"><span style="color:cyan;">50 seconds!  </span><span style="color:#11FF11;">Get them all out.  </span><span style="color:white;">50</span><br><span style="color:white;">seconds, slightly less now.</span></P></Sync>
+<Sync Start="463280"><P class="ENCC"><span style="color:cyan;">Keep going. Plenty time. Keep going,</span><br><span style="color:cyan;">keep going.</span></P></Sync>
+<Sync Start="465760"><P class="ENCC"><span style="color:white;">This guy's done Ikea. He knows how</span><br><span style="color:white;">to work an Allen key.</span></P></Sync>
+<Sync Start="469680"><P class="ENCC"><span style="color:cyan;">That's it!  </span><span style="color:white;">Oh, there we go!</span><br><span style="color:white;">Very good.</span></P></Sync>
+<Sync Start="473680"><P class="ENCC"></P></Sync>
+<Sync Start="473760"><P class="ENCC"><span style="color:white;">And bags of time to spare.</span></P></Sync>
+<Sync Start="475080"><P class="ENCC"><span style="color:white;">CHEERING</span></P></Sync>
+<Sync Start="476560"><P class="ENCC"><span style="color:white;">Yelliott. That's right.</span></P></Sync>
+<Sync Start="479320"><P class="ENCC"><span style="color:white;">Come on. Yelliott's very good.</span></P></Sync>
+<Sync Start="481680"><P class="ENCC"><span style="color:white;">So much time to spare.</span></P></Sync>
+<Sync Start="483440"><P class="ENCC"><span style="color:white;">Excellent work. Focused.</span></P></Sync>
+<Sync Start="485720"><P class="ENCC"><span style="color:white;">I saw the teamwork.</span></P></Sync>
+<Sync Start="487600"><P class="ENCC"><span style="color:white;">I mean, you're a band - you know</span><br><span style="color:white;">what you're doing.</span></P></Sync>
+<Sync Start="490000"><P class="ENCC"><span style="color:yellow;">I've done many a drum kit.</span><br><span style="color:white;">Oh, course you have.</span></P></Sync>
+<Sync Start="492240"><P class="ENCC"><span style="color:white;">This is not your first rodeo.</span></P></Sync>
+<Sync Start="493680"><P class="ENCC"><span style="color:yellow;">No.</span></P></Sync>
+<Sync Start="495120"><P class="ENCC"><span style="color:white;">The next game we have is a</span><br><span style="color:white;">mystery game.</span></P></Sync>
+<Sync Start="498480"><P class="ENCC"><span style="color:white;">Green Ash, who's playing?</span></P></Sync>
+<Sync Start="499720"><P class="ENCC"><span style="color:cyan;">Mystery game, OK.</span></P></Sync>
+<Sync Start="501240"><P class="ENCC"><span style="color:cyan;">Mike.  </span><span style="color:yellow;">OK!</span></P></Sync>
+<Sync Start="502560"><P class="ENCC"><span style="color:white;">Mike, you seem surprised.</span></P></Sync>
+<Sync Start="504440"><P class="ENCC"><span style="color:yellow;">I am. It's a mystery!</span></P></Sync>
+<Sync Start="506480"><P class="ENCC"><span style="color:white;">OK, very good.</span><br><span style="color:white;">Mystery game, blue Mike.</span></P></Sync>
+<Sync Start="508880"><P class="ENCC"><span style="color:white;">The lead singer.  </span><span style="color:cyan;">Indeed, the lead</span><br><span style="color:cyan;">singer.  </span><span style="color:white;">Come with. Follow the hand.</span></P></Sync>
+<Sync Start="511760"><P class="ENCC"><span style="color:white;">Follow the hand, follow the hand.</span></P></Sync>
+<Sync Start="513200"><P class="ENCC"><span style="color:white;">Follow the hand. I'm going to stop</span><br><span style="color:white;">you here.</span></P></Sync>
+<Sync Start="516560"><P class="ENCC"><span style="color:white;">And I'm going to tuck you into this</span><br><span style="color:white;">wall.  </span><span style="color:yellow;">Yeah.  </span><span style="color:white;">In we go.</span></P></Sync>
+<Sync Start="519120"><P class="ENCC"><span style="color:white;">In we go, in we go.</span></P></Sync>
+<Sync Start="520440"><P class="ENCC"><span style="color:white;">OK. From when this door is closed,</span><br><span style="color:white;">you have three mins.</span></P></Sync>
+<Sync Start="524440"><P class="ENCC"></P></Sync>
+<Sync Start="524600"><P class="ENCC"><span style="color:yellow;">OK.  </span><span style="color:white;">Your team may help you.</span></P></Sync>
+<Sync Start="526840"><P class="ENCC"><span style="color:white;">Are you ready?  </span><span style="color:yellow;">Yeah, I'm ready.</span></P></Sync>
+<Sync Start="528640"><P class="ENCC"><span style="color:white;">Good. In we go.</span></P></Sync>
+<Sync Start="532560"><P class="ENCC"><span style="color:yellow;">OK, guys, I've got, ah...</span><br><span style="color:white;">PHONE RINGS</span></P></Sync>
+<Sync Start="535320"><P class="ENCC"><span style="color:yellow;">..telephones. Hang on.</span></P></Sync>
+<Sync Start="536960"><P class="ENCC"><span style="color:cyan;">OK. Answer.</span></P></Sync>
+<Sync Start="539400"><P class="ENCC"><span style="color:yellow;">Hello?</span></P></Sync>
+<Sync Start="540800"><P class="ENCC"><span style="color:white;">WOMAN ON PHONE:  </span><span style="color:cyan;">This colour is a</span><br><span style="color:cyan;">result of the absence of light.</span></P></Sync>
+<Sync Start="543720"><P class="ENCC"><span style="color:yellow;">&quot;This colour is the result of an</span><br><span style="color:yellow;">absence of light.&quot;</span></P></Sync>
+<Sync Start="545920"><P class="ENCC"><span style="color:yellow;">Black?  </span><span style="color:cyan;">Black.</span></P></Sync>
+<Sync Start="548520"><P class="ENCC"><span style="color:cyan;">Black, black. Over here.</span></P></Sync>
+<Sync Start="550440"><P class="ENCC"><span style="color:yellow;">This one?  </span><span style="color:cyan;">Yeah.</span></P></Sync>
+<Sync Start="552240"><P class="ENCC"><span style="color:yellow;">It's not ringing.</span></P></Sync>
+<Sync Start="553440"><P class="ENCC"><span style="color:yellow;">Hello?  </span><span style="color:cyan;">Put it down.</span><br><span style="color:cyan;">Let it ring.  </span><span style="color:yellow;">All right.</span></P></Sync>
+<Sync Start="556360"><P class="ENCC"><span style="color:yellow;">Black.  </span><span style="color:white;">Ah.  </span><span style="color:yellow;">What was...</span></P></Sync>
+<Sync Start="557720"><P class="ENCC"><span style="color:#11FF11;">What did he say this colour was?</span><br><span style="color:white;">How would you make a phone ring?</span></P></Sync>
+<Sync Start="560680"><P class="ENCC"><span style="color:yellow;">You dial a number.  </span><span style="color:cyan;">Ah, ring it.</span><br><span style="color:#11FF11;">Oh, you have to call the number.</span></P></Sync>
+<Sync Start="563480"><P class="ENCC"><span style="color:cyan;">Yeah, so... The number on the phone,</span><br><span style="color:cyan;">on the black -</span></P></Sync>
+<Sync Start="565760"><P class="ENCC"><span style="color:cyan;">so ring the black phone.</span><br><span style="color:white;">Is the phone set up properly?</span></P></Sync>
+<Sync Start="568040"><P class="ENCC"><span style="color:yellow;">Er...</span></P></Sync>
+<Sync Start="570000"><P class="ENCC"><span style="color:yellow;">The number to ring the black</span><br><span style="color:yellow;">phone...</span></P></Sync>
+<Sync Start="571840"><P class="ENCC"><span style="color:white;">How did the white phone ring?</span></P></Sync>
+<Sync Start="573480"><P class="ENCC"><span style="color:#11FF11;">How did the white phone ring, Dad?</span></P></Sync>
+<Sync Start="574840"><P class="ENCC"><span style="color:white;">How did it ring? What's different</span><br><span style="color:white;">about the white phone?</span></P></Sync>
+<Sync Start="577200"><P class="ENCC"><span style="color:yellow;">Ah, it was just ringing when I got</span><br><span style="color:yellow;">there.</span></P></Sync>
+<Sync Start="579400"><P class="ENCC"><span style="color:#11FF11;">What's different about the white</span><br><span style="color:#11FF11;">phone? There's a cable going to it.</span></P></Sync>
+<Sync Start="581840"><P class="ENCC"><span style="color:white;">That's right.  </span><span style="color:#11FF11;">Yeah.</span></P></Sync>
+<Sync Start="583120"><P class="ENCC"><span style="color:#11FF11;">A cable! Dad, behind you, behind</span><br><span style="color:#11FF11;">you!</span></P></Sync>
+<Sync Start="584440"><P class="ENCC"><span style="color:#11FF11;">There's a cable. Plug it in or</span><br><span style="color:#11FF11;">something.</span></P></Sync>
+<Sync Start="586120"><P class="ENCC"><span style="color:#11FF11;">Plug the black phone in.</span></P></Sync>
+<Sync Start="587280"><P class="ENCC"><span style="color:cyan;">Plug it in.  </span><span style="color:white;">That was the only thing</span><br><span style="color:white;">left to say.</span></P></Sync>
+<Sync Start="589440"><P class="ENCC"><span style="color:cyan;">Plug it into the black one.</span><br><span style="color:yellow;">This one?  </span><span style="color:#11FF11;">Yep.  </span><span style="color:white;">Here we go.</span></P></Sync>
+<Sync Start="592520"><P class="ENCC"><span style="color:white;">PHONE RINGS</span></P></Sync>
+<Sync Start="593720"><P class="ENCC"><span style="color:white;">One minute gone.  </span><span style="color:cyan;">Yes!  </span><span style="color:yellow;">Hello?</span></P></Sync>
+<Sync Start="595080"><P class="ENCC"><span style="color:white;">WOMAN:  </span><span style="color:cyan;">This card is a football</span><br><span style="color:cyan;">referee's first warning.</span></P></Sync>
+<Sync Start="598360"><P class="ENCC"><span style="color:yellow;">Football referee's first warning.</span></P></Sync>
+<Sync Start="599840"><P class="ENCC"><span style="color:yellow;">Got to be yellow.  </span><span style="color:white;">Just one minute's</span><br><span style="color:white;">gone.  </span><span style="color:cyan;">Yeah. Two minutes to go.</span></P></Sync>
+<Sync Start="602640"><P class="ENCC"><span style="color:white;">He knew that.  </span><span style="color:yellow;">OK.</span></P></Sync>
+<Sync Start="604040"><P class="ENCC"><span style="color:white;">PHONE RINGS</span></P></Sync>
+<Sync Start="605560"><P class="ENCC"><span style="color:white;">WOMAN:  </span><span style="color:cyan;">The lining of every cloud is</span><br><span style="color:cyan;">said to be this colour.</span></P></Sync>
+<Sync Start="609440"><P class="ENCC"><span style="color:yellow;">Every cloud... Silver lining.</span></P></Sync>
+<Sync Start="611280"><P class="ENCC"><span style="color:cyan;">Yeah.  </span><span style="color:yellow;">Where's silver?  </span><span style="color:cyan;">Over there,</span><br><span style="color:cyan;">silver!</span></P></Sync>
+<Sync Start="613520"><P class="ENCC"><span style="color:#11FF11;">Yes, he's got this.</span></P></Sync>
+<Sync Start="615000"><P class="ENCC"><span style="color:white;">PHONE RINGS</span></P></Sync>
+<Sync Start="617320"><P class="ENCC"><span style="color:white;">WOMAN:  </span><span style="color:cyan;">This colour denotes royalty</span><br><span style="color:cyan;">or privilege.</span></P></Sync>
+<Sync Start="620400"><P class="ENCC"><span style="color:yellow;">Ah, colour denotes royalty or</span><br><span style="color:yellow;">privilege?</span></P></Sync>
+<Sync Start="622440"><P class="ENCC"><span style="color:yellow;">Blue?  </span><span style="color:#11FF11;">Blue.  </span><span style="color:cyan;">Oh, blue, there -</span><br><span style="color:cyan;">blue, blue, blue.</span></P></Sync>
+<Sync Start="624880"><P class="ENCC"><span style="color:yellow;">Blue, blue, blue, blue.</span></P></Sync>
+<Sync Start="626400"><P class="ENCC"><span style="color:white;">Halfway through - they're rattling</span><br><span style="color:white;">through this.</span></P></Sync>
+<Sync Start="628560"><P class="ENCC"><span style="color:cyan;">Eh?  </span><span style="color:yellow;">The blue's at the other side.</span><br><span style="color:yellow;">Or is that purple?</span></P></Sync>
+<Sync Start="631920"><P class="ENCC"><span style="color:yellow;">Blue?  </span><span style="color:#11FF11;">Oh, is that purple?  </span><span style="color:cyan;">Purple.</span></P></Sync>
+<Sync Start="634280"><P class="ENCC"><span style="color:white;">I don't want to single out this</span><br><span style="color:white;">accent for praise -</span></P></Sync>
+<Sync Start="637120"><P class="ENCC"><span style="color:white;">but it is flipping good, isn't it?</span></P></Sync>
+<Sync Start="639560"><P class="ENCC"><span style="color:cyan;">Pull it out.  </span><span style="color:#11FF11;">Keep going, keep going.</span><br><span style="color:cyan;">Keep going.</span></P></Sync>
+<Sync Start="643560"><P class="ENCC"></P></Sync>
+<Sync Start="643760"><P class="ENCC"><span style="color:white;">PHONE RINGS</span></P></Sync>
+<Sync Start="645200"><P class="ENCC"><span style="color:cyan;">There.  </span><span style="color:#11FF11;">Yes.</span></P></Sync>
+<Sync Start="646320"><P class="ENCC"><span style="color:white;">WOMAN:  </span><span style="color:cyan;">This colour could mean vulgar</span><br><span style="color:cyan;">or gloomy.</span></P></Sync>
+<Sync Start="650160"><P class="ENCC"><span style="color:yellow;">&quot;This colour could mean vulgar or</span><br><span style="color:yellow;">gloomy.&quot;</span></P></Sync>
+<Sync Start="652800"><P class="ENCC"><span style="color:white;">One minute left.  </span><span style="color:cyan;">Vulgar or gloomy?</span></P></Sync>
+<Sync Start="654720"><P class="ENCC"><span style="color:yellow;">Yeah.  </span><span style="color:#11FF11;">Vulgar?  </span><span style="color:cyan;">Blue!</span></P></Sync>
+<Sync Start="656960"><P class="ENCC"><span style="color:#11FF11;">Red.  </span><span style="color:cyan;">Blue.  </span><span style="color:#11FF11;">Yeah, blue.</span></P></Sync>
+<Sync Start="658760"><P class="ENCC"><span style="color:cyan;">Blue.</span></P></Sync>
+<Sync Start="660800"><P class="ENCC"><span style="color:white;">PHONE RINGS</span></P></Sync>
+<Sync Start="662440"><P class="ENCC"><span style="color:white;">WOMAN:  </span><span style="color:cyan;">You have won the crystal.</span></P></Sync>
+<Sync Start="664480"><P class="ENCC"><span style="color:yellow;">I've won the crystal! Where is it?</span></P></Sync>
+<Sync Start="666080"><P class="ENCC"><span style="color:yellow;">Oh, here we go.</span></P></Sync>
+<Sync Start="669240"><P class="ENCC"><span style="color:white;">Very good. I mean, again, so</span><br><span style="color:white;">much time to spare.</span></P></Sync>
+<Sync Start="673080"><P class="ENCC"><span style="color:cyan;">Come on!  </span><span style="color:white;">Blue Mike!</span></P></Sync>
+<Sync Start="675200"><P class="ENCC"><span style="color:white;">CHEERING</span></P></Sync>
+<Sync Start="677080"><P class="ENCC"><span style="color:white;">Well done.  </span><span style="color:#11FF11;">Brilliant.</span></P></Sync>
+<Sync Start="678680"><P class="ENCC"><span style="color:white;">Ah, very good.</span></P></Sync>
+<Sync Start="680840"><P class="ENCC"><span style="color:white;">I mean, are you like this after</span><br><span style="color:white;">every song?</span></P></Sync>
+<Sync Start="682960"><P class="ENCC"><span style="color:yellow;">Yeah, I am, yeah - I'm even worse!</span></P></Sync>
+<Sync Start="684880"><P class="ENCC"><span style="color:white;">Tuck in, blue Mike.</span><br><span style="color:white;">I mean, very good.</span></P></Sync>
+<Sync Start="688160"><P class="ENCC"><span style="color:white;">Again, I mean, you've absolutely</span><br><span style="color:white;">rinsed this.</span></P></Sync>
+<Sync Start="690840"><P class="ENCC"><span style="color:white;">It's two for two. The next game is a</span><br><span style="color:white;">physical game.</span></P></Sync>
+<Sync Start="694840"><P class="ENCC"></P></Sync>
+<Sync Start="694880"><P class="ENCC"><span style="color:white;">Green Ash, who's doing it?</span></P></Sync>
+<Sync Start="696600"><P class="ENCC"><span style="color:yellow;">OK, physical game.</span><br><span style="color:yellow;">I'll give it a go.</span></P></Sync>
+<Sync Start="698560"><P class="ENCC"><span style="color:white;">Green Ash, leading from the front.</span></P></Sync>
+<Sync Start="700240"><P class="ENCC"><span style="color:#11FF11;">Yes. Go, Ash!  </span><span style="color:white;">Up top. That's right.</span></P></Sync>
+<Sync Start="702880"><P class="ENCC"><span style="color:white;">OK, and down below.</span></P></Sync>
+<Sync Start="704520"><P class="ENCC"><span style="color:white;">First person who's done that.</span><br><span style="color:white;">Thank you, green Ash.</span></P></Sync>
+<Sync Start="707160"><P class="ENCC"><span style="color:white;">Come with. I'm going to pivot you</span><br><span style="color:white;">round.</span></P></Sync>
+<Sync Start="709120"><P class="ENCC"><span style="color:white;">Hold, and pivot.</span></P></Sync>
+<Sync Start="711360"><P class="ENCC"><span style="color:white;">It... It is weird.  </span><span style="color:yellow;">Want me to hold</span><br><span style="color:yellow;">the hand?</span></P></Sync>
+<Sync Start="713440"><P class="ENCC"><span style="color:white;">You are welcome to hold this hand -</span><br><span style="color:white;">my third hand.</span></P></Sync>
+<Sync Start="716680"><P class="ENCC"><span style="color:white;">You're very welcome. OK, this is an</span><br><span style="color:white;">automatic lock-in situation.</span></P></Sync>
+<Sync Start="720680"><P class="ENCC"></P></Sync>
+<Sync Start="721840"><P class="ENCC"><span style="color:yellow;">Oh, no.  </span><span style="color:white;">That's right.</span></P></Sync>
+<Sync Start="724080"><P class="ENCC"><span style="color:white;">Two mins.  </span><span style="color:yellow;">Can I swap?</span><br><span style="color:white;">You can no longer swap.</span></P></Sync>
+<Sync Start="726520"><P class="ENCC"><span style="color:white;">You've got two mins from</span><br><span style="color:white;">when I close this door.</span></P></Sync>
+<Sync Start="728680"><P class="ENCC"><span style="color:yellow;">Right.  </span><span style="color:white;">If you touch the ground three</span><br><span style="color:white;">times, you're locked in.</span></P></Sync>
+<Sync Start="731480"><P class="ENCC"><span style="color:yellow;">Right.  </span><span style="color:white;">It will become apparent how</span><br><span style="color:white;">you may touch the ground</span></P></Sync>
+<Sync Start="734240"><P class="ENCC"><span style="color:white;">once you're in.</span></P></Sync>
+<Sync Start="735480"><P class="ENCC"><span style="color:white;">Also, when you go through that door,</span><br><span style="color:white;">you will look slightly different.</span></P></Sync>
+<Sync Start="738440"><P class="ENCC"><span style="color:white;">It will become apparent.</span><br><span style="color:white;">OK, in you go.</span></P></Sync>
+<Sync Start="741080"><P class="ENCC"><span style="color:cyan;">Go for it, Ash.  </span><span style="color:#11FF11;">Come on, Ash.</span></P></Sync>
+<Sync Start="742720"><P class="ENCC"><span style="color:cyan;">Take your time.</span></P></Sync>
+<Sync Start="744400"><P class="ENCC"><span style="color:white;">There you go.  </span><span style="color:yellow;">&quot;Switch on all the</span><br><span style="color:yellow;">power to activate the reactor box.&quot;</span></P></Sync>
+<Sync Start="748240"><P class="ENCC"><span style="color:yellow;">Switch on all the power?</span></P></Sync>
+<Sync Start="749520"><P class="ENCC"><span style="color:yellow;">Er... So press those buttons, yeah?</span></P></Sync>
+<Sync Start="751600"><P class="ENCC"><span style="color:cyan;">Switch on all the power.</span><br><span style="color:yellow;">I'm guessing.</span></P></Sync>
+<Sync Start="753200"><P class="ENCC"><span style="color:cyan;">Yeah.  </span><span style="color:#11FF11;">But you've got to...</span></P></Sync>
+<Sync Start="754560"><P class="ENCC"><span style="color:cyan;">Get on that one first.  </span><span style="color:#11FF11;">You've got to</span><br><span style="color:#11FF11;">stand on the rotating tables</span></P></Sync>
+<Sync Start="757160"><P class="ENCC"><span style="color:#11FF11;">to do it.  </span><span style="color:cyan;">Yeah, you can't touch the</span><br><span style="color:cyan;">floor.  </span><span style="color:yellow;">This one?</span></P></Sync>
+<Sync Start="759320"><P class="ENCC"><span style="color:cyan;">This is the nearest one. Be careful.</span><br><span style="color:#11FF11;">Look at the speed of it, man!</span></P></Sync>
+<Sync Start="761480"><P class="ENCC"><span style="color:cyan;">Go in the middle, go in the middle.</span></P></Sync>
+<Sync Start="762880"><P class="ENCC"><span style="color:#11FF11;">Crouch down onto it.  </span><span style="color:cyan;">Crouch down,</span><br><span style="color:cyan;">and go in the middle.</span></P></Sync>
+<Sync Start="765080"><P class="ENCC"><span style="color:cyan;">Jump and crouch.</span><br><span style="color:white;">A suggestion for crouching.</span></P></Sync>
+<Sync Start="768200"><P class="ENCC"><span style="color:cyan;">Jump and crouch.  </span><span style="color:#11FF11;">Go in the middle.</span></P></Sync>
+<Sync Start="770240"><P class="ENCC"><span style="color:cyan;">Yes! Now go on the next one.</span></P></Sync>
+<Sync Start="771880"><P class="ENCC"><span style="color:#11FF11;">Ash, press the button that's there.</span><br><span style="color:cyan;">Press the button next to you.</span></P></Sync>
+<Sync Start="775680"><P class="ENCC"><span style="color:white;">He's going very low.</span></P></Sync>
+<Sync Start="776960"><P class="ENCC"><span style="color:yellow;">Who would've thought rockers would</span><br><span style="color:yellow;">be this cautious?</span></P></Sync>
+<Sync Start="778960"><P class="ENCC"><span style="color:cyan;">That's it.</span></P></Sync>
+<Sync Start="781160"><P class="ENCC"><span style="color:cyan;">That's it!  </span><span style="color:#11FF11;">Yeah, have we got it?</span><br><span style="color:yellow;">No, I don't think it's worked.</span></P></Sync>
+<Sync Start="783760"><P class="ENCC"><span style="color:white;">Not quite!  </span><span style="color:cyan;">Press it again.</span><br><span style="color:white;">More force!</span></P></Sync>
+<Sync Start="786440"><P class="ENCC"><span style="color:white;">That's right.  </span><span style="color:cyan;">That's right.</span><br><span style="color:cyan;">Next one. That's OK.</span></P></Sync>
+<Sync Start="788840"><P class="ENCC"><span style="color:#11FF11;">Next one.  </span><span style="color:cyan;">Next one - come back one.</span></P></Sync>
+<Sync Start="790880"><P class="ENCC"><span style="color:cyan;">Come back to this one, Ash.</span></P></Sync>
+<Sync Start="792640"><P class="ENCC"><span style="color:#11FF11;">Come back to this one.</span><br><span style="color:cyan;">Hang on, hang on.</span></P></Sync>
+<Sync Start="794200"><P class="ENCC"><span style="color:cyan;">Jump across. The speed, man.</span></P></Sync>
+<Sync Start="795640"><P class="ENCC"><span style="color:cyan;">Go on, just jump across.</span><br><span style="color:#11FF11;">That's it! Yes!</span></P></Sync>
+<Sync Start="797440"><P class="ENCC"><span style="color:cyan;">Right, press the button.</span><br><span style="color:#11FF11;">Press the button.</span></P></Sync>
+<Sync Start="799640"><P class="ENCC"><span style="color:cyan;">Yes! Right, next one. Jump.</span></P></Sync>
+<Sync Start="801400"><P class="ENCC"><span style="color:cyan;">Jump across - now.  </span><span style="color:white;">Jump across.</span></P></Sync>
+<Sync Start="803520"><P class="ENCC"><span style="color:white;">He's going to jump across.</span><br><span style="color:cyan;">How long left?</span></P></Sync>
+<Sync Start="805320"><P class="ENCC"><span style="color:white;">One minute left.  </span><span style="color:cyan;">One minute left.</span></P></Sync>
+<Sync Start="806760"><P class="ENCC"><span style="color:cyan;">You're going to have to be quick,</span><br><span style="color:cyan;">Ash.  </span><span style="color:yellow;">The speed's ridiculous.</span></P></Sync>
+<Sync Start="809400"><P class="ENCC"><span style="color:#11FF11;">Careful, Ash.  </span><span style="color:yellow;">Ah, I'm not going to</span><br><span style="color:yellow;">do this.</span></P></Sync>
+<Sync Start="811280"><P class="ENCC"><span style="color:cyan;">Come on! Ash, just go. Go for it.</span></P></Sync>
+<Sync Start="813440"><P class="ENCC"><span style="color:#11FF11;">Yes, that's it. Go.</span></P></Sync>
+<Sync Start="815040"><P class="ENCC"><span style="color:white;">Oh, come on.</span></P></Sync>
+<Sync Start="816960"><P class="ENCC"><span style="color:cyan;">That's better.  </span><span style="color:#11FF11;">Just go.</span></P></Sync>
+<Sync Start="818760"><P class="ENCC"><span style="color:cyan;">Hit the button. Hit the button!</span><br><span style="color:#11FF11;">Hit the button.</span></P></Sync>
+<Sync Start="821600"><P class="ENCC"><span style="color:#11FF11;">And again.  </span><span style="color:white;">He's on all fours!</span></P></Sync>
+<Sync Start="823480"><P class="ENCC"><span style="color:white;">What's he doing?!</span><br><span style="color:yellow;">How much time have I got?</span></P></Sync>
+<Sync Start="825240"><P class="ENCC"><span style="color:cyan;">Lots. Keep going.</span></P></Sync>
+<Sync Start="826480"><P class="ENCC"><span style="color:white;">Three down, two to go!</span></P></Sync>
+<Sync Start="828160"><P class="ENCC"><span style="color:#11FF11;">Two more.  </span><span style="color:cyan;">Two more, Ash.</span></P></Sync>
+<Sync Start="830000"><P class="ENCC"><span style="color:cyan;">Jump across!  </span><span style="color:yellow;">How long left?</span></P></Sync>
+<Sync Start="832640"><P class="ENCC"><span style="color:white;">He's got, ooh...</span><br><span style="color:white;">about 30 seconds. 30 seconds.</span></P></Sync>
+<Sync Start="835800"><P class="ENCC"><span style="color:cyan;">Quick.  </span><span style="color:#11FF11;">Jump across!</span><br><span style="color:white;">Oh, I thought they had this.</span></P></Sync>
+<Sync Start="838920"><P class="ENCC"><span style="color:cyan;">I think you need to come out.</span></P></Sync>
+<Sync Start="840240"><P class="ENCC"><span style="color:white;">SIREN WAILS</span></P></Sync>
+<Sync Start="841640"><P class="ENCC"><span style="color:white;">He's gone too low.  </span><span style="color:cyan;">Come out.</span><br><span style="color:white;">That's a life lost.</span></P></Sync>
+<Sync Start="843800"><P class="ENCC"><span style="color:#11FF11;">Come out, come out, come out!</span><br><span style="color:white;">20 seconds.</span></P></Sync>
+<Sync Start="846040"><P class="ENCC"><span style="color:cyan;">Come out.  </span><span style="color:#11FF11;">Come out.</span></P></Sync>
+<Sync Start="847320"><P class="ENCC"><span style="color:white;">SIREN WAILS</span></P></Sync>
+<Sync Start="848520"><P class="ENCC"><span style="color:white;">Oh!  </span><span style="color:cyan;">He's too dizzy.</span></P></Sync>
+<Sync Start="850040"><P class="ENCC"><span style="color:white;">He's too dizzy.  </span><span style="color:cyan;">Yeah, that's the</span><br><span style="color:cyan;">problem.</span></P></Sync>
+<Sync Start="851960"><P class="ENCC"><span style="color:#11FF11;">Too fast.  </span><span style="color:white;">Out you come.</span></P></Sync>
+<Sync Start="854400"><P class="ENCC"><span style="color:white;">Oh, dear.  </span><span style="color:cyan;">Is he all right?</span></P></Sync>
+<Sync Start="855880"><P class="ENCC"><span style="color:white;">He's stuck in the...</span><br><span style="color:white;">Are you all right?</span></P></Sync>
+<Sync Start="858000"><P class="ENCC"><span style="color:white;">Too dizzy.  </span><span style="color:yellow;">Yeah.</span></P></Sync>
+<Sync Start="859360"><P class="ENCC"><span style="color:white;">Shall I give you a moment?</span></P></Sync>
+<Sync Start="860960"><P class="ENCC"><span style="color:#11FF11;">He's not well.</span></P></Sync>
+<Sync Start="862920"><P class="ENCC"><span style="color:white;">Oh, that's no good.</span></P></Sync>
+<Sync Start="864800"><P class="ENCC"><span style="color:cyan;">Ash, you know, the only way to do it</span><br><span style="color:cyan;">is to run around them.</span></P></Sync>
+<Sync Start="867960"><P class="ENCC"><span style="color:yellow;">You can't - you can't touch the</span><br><span style="color:yellow;">floor.</span></P></Sync>
+<Sync Start="869800"><P class="ENCC"><span style="color:cyan;">No, run around when you're on them.</span></P></Sync>
+<Sync Start="871880"><P class="ENCC"><span style="color:#11FF11;">Oh, yeah, yeah.  </span><span style="color:yellow;">You'd probably more</span><br><span style="color:yellow;">likely fall off.</span></P></Sync>
+<Sync Start="874840"><P class="ENCC"><span style="color:white;">This is too little, too late, Mike!</span></P></Sync>
+<Sync Start="876800"><P class="ENCC"><span style="color:yellow;">Exactly.</span></P></Sync>
+<Sync Start="878080"><P class="ENCC"><span style="color:white;">Where was this when you were in?</span></P></Sync>
+<Sync Start="879880"><P class="ENCC"><span style="color:yellow;">Yeah!  </span><span style="color:white;">You just looked like a drunk</span><br><span style="color:white;">person crawling around the cobbles.</span></P></Sync>
+<Sync Start="883240"><P class="ENCC"><span style="color:white;">LAUGHTER</span><br><span style="color:yellow;">I felt like a drunk person at the</span><br><span style="color:yellow;">end!</span></P></Sync>
+<Sync Start="885640"><P class="ENCC"><span style="color:white;">It was tough there.</span></P></Sync>
+<Sync Start="886720"><P class="ENCC"><span style="color:white;">Well, it's OK.  </span><span style="color:cyan;">Don't worry.</span><br><span style="color:cyan;">Onwards and upwards.</span></P></Sync>
+<Sync Start="888960"><P class="ENCC"><span style="color:white;">It's fine.  </span><span style="color:#11FF11;">Keep the positivity.</span></P></Sync>
+<Sync Start="890640"><P class="ENCC"><span style="color:cyan;">It's all right, captain - come on.</span><br><span style="color:white;">Listen to Yelliott.</span></P></Sync>
+<Sync Start="893080"><P class="ENCC"><span style="color:cyan;">Stay positive.  </span><span style="color:white;">Exactly.</span><br><span style="color:white;">Do stay positive.</span></P></Sync>
+<Sync Start="895360"><P class="ENCC"><span style="color:white;">In this zone, you've got two</span><br><span style="color:white;">crystals, you played three games.</span></P></Sync>
+<Sync Start="897760"><P class="ENCC"><span style="color:cyan;">That's good.  </span><span style="color:white;">You're doing well.</span><br><span style="color:#11FF11;">Yes!  </span><span style="color:white;">Let's not despair.</span></P></Sync>
+<Sync Start="900400"><P class="ENCC"><span style="color:#11FF11;">Come on, come on!  </span><span style="color:white;">Two out of three</span><br><span style="color:white;">ain't bad.</span></P></Sync>
+<Sync Start="902360"><P class="ENCC"><span style="color:white;">I know that's not an AC/DC song,</span><br><span style="color:white;">it's Meat Loaf.</span></P></Sync>
+<Sync Start="904560"><P class="ENCC"><span style="color:white;">We shouldn't talk about him.</span></P></Sync>
+<Sync Start="905920"><P class="ENCC"><span style="color:white;">But we're going to exit via this</span><br><span style="color:white;">duct pipe, behind you!</span></P></Sync>
+<Sync Start="908840"><P class="ENCC"><span style="color:cyan;">Yes!  </span><span style="color:white;">Scramble through.</span></P></Sync>
+<Sync Start="910360"><P class="ENCC"><span style="color:white;">As fast as you like.</span><br><span style="color:white;">Fast as you like.</span></P></Sync>
+<Sync Start="912520"><P class="ENCC"><span style="color:#11FF11;">Go, go, go, go, go.  </span><span style="color:white;">There you go,</span><br><span style="color:white;">red Gary, followed by blue Mike.</span></P></Sync>
+<Sync Start="916520"><P class="ENCC"></P></Sync>
+<Sync Start="917760"><P class="ENCC"><span style="color:cyan;">To the left.</span></P></Sync>
+<Sync Start="920080"><P class="ENCC"><span style="color:white;">We might have to edit this.</span></P></Sync>
+<Sync Start="927000"><P class="ENCC"></P></Sync>
+
+<Sync Start="927000"><P class="ENCC"></P></Sync>
+<Sync Start="931000"><P class="ENCC"></P></Sync>
+<Sync Start="943680"><P class="ENCC"><span style="color:white;">Well done. You're all here.</span><br><span style="color:white;">Very good.</span></P></Sync>
+<Sync Start="946400"><P class="ENCC"><span style="color:white;">Welcome to the Aztec Zone.</span></P></Sync>
+<Sync Start="948320"><P class="ENCC"><span style="color:white;">This is what Center Parcs would</span><br><span style="color:white;">look like if they drained it.</span></P></Sync>
+<Sync Start="951520"><P class="ENCC"><span style="color:white;">It's a lovely place.</span></P></Sync>
+<Sync Start="953320"><P class="ENCC"><span style="color:white;">Now, you did well in the last zone,</span><br><span style="color:white;">the Industrial Zone,</span></P></Sync>
+<Sync Start="955560"><P class="ENCC"><span style="color:white;">but maybe you felt comfortable in</span><br><span style="color:white;">the Industrial Zone, you know.</span></P></Sync>
+<Sync Start="958720"><P class="ENCC"><span style="color:white;">I'm regional stereotyping here,</span><br><span style="color:white;">but it's allowed.</span></P></Sync>
+<Sync Start="961360"><P class="ENCC"><span style="color:white;">It's sort of racist, but not really.</span></P></Sync>
+<Sync Start="963680"><P class="ENCC"><span style="color:white;">That's the beauty of it.</span></P></Sync>
+<Sync Start="965200"><P class="ENCC"><span style="color:white;">Now, you have two crystals.</span><br><span style="color:white;">It's worth ten seconds in the dome.</span></P></Sync>
+<Sync Start="968760"><P class="ENCC"><span style="color:white;">We want more.</span><br><span style="color:white;">Our first game is a mental game.</span></P></Sync>
+<Sync Start="972640"><P class="ENCC"><span style="color:white;">Green Ash, who's playing?</span><br><span style="color:cyan;">For this one, it's got to be Angaz.</span></P></Sync>
+<Sync Start="976200"><P class="ENCC"><span style="color:white;">Angaz?</span><br><span style="color:cyan;">Angaz.</span></P></Sync>
+<Sync Start="977280"><P class="ENCC"><span style="color:white;">A combination between Angus Young</span><br><span style="color:white;">and Gaz.</span></P></Sync>
+<Sync Start="979480"><P class="ENCC"><span style="color:cyan;">Yes.</span><br><span style="color:#11FF11;">Nice.</span></P></Sync>
+<Sync Start="980640"><P class="ENCC"><span style="color:white;">I mean, it's excellent.</span><br><span style="color:white;">They're really selling this band.</span></P></Sync>
+<Sync Start="983080"><P class="ENCC"><span style="color:white;">Come on, Angaz.</span><br><span style="color:white;">Here we go, follow the hand.</span></P></Sync>
+<Sync Start="985320"><P class="ENCC"><span style="color:white;">Up we go,</span><br><span style="color:white;">and I'm going to tuck you in here.</span></P></Sync>
+<Sync Start="988680"><P class="ENCC"><span style="color:white;">Tuck you in here. In you go.</span></P></Sync>
+<Sync Start="990120"><P class="ENCC"><span style="color:white;">Back there, back there. Tuck you in.</span></P></Sync>
+<Sync Start="992520"><P class="ENCC"><span style="color:white;">There we go. That's right. OK.</span></P></Sync>
+<Sync Start="994800"><P class="ENCC"><span style="color:white;">Oh, he's already climbing the walls.</span></P></Sync>
+<Sync Start="997040"><P class="ENCC"><span style="color:white;">Come down!</span></P></Sync>
+<Sync Start="998680"><P class="ENCC"><span style="color:cyan;">Steady on, there.</span></P></Sync>
+<Sync Start="1001080"><P class="ENCC"><span style="color:white;">Yelliott's like a little</span><br><span style="color:white;">spider monkey.</span></P></Sync>
+<Sync Start="1003240"><P class="ENCC"><span style="color:white;">Straight up.</span></P></Sync>
+<Sync Start="1005120"><P class="ENCC"><span style="color:white;">OK. From when I close this door,</span><br><span style="color:white;">you have two mins, OK?</span></P></Sync>
+<Sync Start="1009120"><P class="ENCC"></P></Sync>
+<Sync Start="1009160"><P class="ENCC"><span style="color:white;">You feeling good?  </span><span style="color:yellow;">Yeah.</span><br><span style="color:white;">You're looking good. In you go.</span></P></Sync>
+<Sync Start="1013000"><P class="ENCC"><span style="color:cyan;">Go on, Gaz. Go for it.</span></P></Sync>
+<Sync Start="1015680"><P class="ENCC"><span style="color:white;">There we go. Angaz.</span></P></Sync>
+<Sync Start="1016920"><P class="ENCC"><span style="color:white;">Angaz is in.  </span><span style="color:yellow;">&quot;Turn the wheels to</span><br><span style="color:yellow;">spell 12 words simultaneously.&quot;</span></P></Sync>
+<Sync Start="1020920"><P class="ENCC"></P></Sync>
+<Sync Start="1023360"><P class="ENCC"><span style="color:white;">I like that.</span><br><span style="color:yellow;">Spell 12 words simultaneously.</span></P></Sync>
+<Sync Start="1027360"><P class="ENCC"></P></Sync>
+<Sync Start="1027400"><P class="ENCC"><span style="color:yellow;">Right, 12 words.</span><br><span style="color:cyan;">Spell 12... So spin it round...</span></P></Sync>
+<Sync Start="1030800"><P class="ENCC"><span style="color:yellow;">Yeah?</span><br><span style="color:cyan;">Get 12 words, so...</span></P></Sync>
+<Sync Start="1033200"><P class="ENCC"><span style="color:#11FF11;">Altogether. Do the middle bits move?</span></P></Sync>
+<Sync Start="1035760"><P class="ENCC"><span style="color:cyan;">&quot;Denominate&quot;.</span><br><span style="color:cyan;">&quot;Denominate&quot; is one, maybe.</span></P></Sync>
+<Sync Start="1037720"><P class="ENCC"><span style="color:cyan;">There - &quot;denom&quot;...</span><br><span style="color:cyan;">On your left, Gaz.</span></P></Sync>
+<Sync Start="1040960"><P class="ENCC"><span style="color:cyan;">You see &quot;denom&quot;?</span></P></Sync>
+<Sync Start="1042640"><P class="ENCC"><span style="color:yellow;">Yeah?  </span><span style="color:cyan;">Where your hand is -</span><br><span style="color:cyan;">you see it says D E?</span></P></Sync>
+<Sync Start="1045680"><P class="ENCC"><span style="color:yellow;">Hang on, hang on.</span></P></Sync>
+<Sync Start="1046760"><P class="ENCC"><span style="color:white;">It's a mixture</span><br><span style="color:white;">between Scrabble and a seance.</span></P></Sync>
+<Sync Start="1049640"><P class="ENCC"><span style="color:yellow;">&quot;Fright.&quot;</span></P></Sync>
+<Sync Start="1052560"><P class="ENCC"><span style="color:cyan;">D...</span><br><span style="color:yellow;">&quot;Chimney.&quot;</span></P></Sync>
+<Sync Start="1055560"><P class="ENCC"><span style="color:cyan;">Yeah, the middle one.  </span><span style="color:#11FF11;">See where the</span><br><span style="color:#11FF11;">letters are the same in the bit?</span></P></Sync>
+<Sync Start="1058240"><P class="ENCC"><span style="color:yellow;">Oh, there's something in the...</span><br><span style="color:yellow;">There must be an I, must be an I.</span></P></Sync>
+<Sync Start="1060880"><P class="ENCC"><span style="color:yellow;">I something.</span></P></Sync>
+<Sync Start="1062400"><P class="ENCC"><span style="color:white;">There may be red herrings in there.</span></P></Sync>
+<Sync Start="1063880"><P class="ENCC"><span style="color:cyan;">Get &quot;frighten,&quot; Gaz.</span><br><span style="color:cyan;">Keep going round.</span></P></Sync>
+<Sync Start="1065720"><P class="ENCC"><span style="color:yellow;">Er...</span><br><span style="color:cyan;">Can't be a double N.</span></P></Sync>
+<Sync Start="1069120"><P class="ENCC"><span style="color:cyan;">If you see that first one in...</span></P></Sync>
+<Sync Start="1071320"><P class="ENCC"><span style="color:yellow;">If you can see anything,</span><br><span style="color:yellow;">let me know.</span></P></Sync>
+<Sync Start="1073160"><P class="ENCC"><span style="color:#11FF11;">It's also got an I G as well.</span><br><span style="color:cyan;">Right, spin it round to there.</span></P></Sync>
+<Sync Start="1076040"><P class="ENCC"><span style="color:#11FF11;">So, get that frighten thing back.</span></P></Sync>
+<Sync Start="1078400"><P class="ENCC"><span style="color:white;">One minute left.</span></P></Sync>
+<Sync Start="1079560"><P class="ENCC"><span style="color:#11FF11;">A bit further, bit further.</span><br><span style="color:cyan;">&quot;Brass, brass,&quot; there. B, R...</span></P></Sync>
+<Sync Start="1082000"><P class="ENCC"><span style="color:#11FF11;">We've got one minute.</span><br><span style="color:yellow;">You mean this one here?</span></P></Sync>
+<Sync Start="1083920"><P class="ENCC"><span style="color:yellow;">That one? I N G?</span></P></Sync>
+<Sync Start="1084960"><P class="ENCC"><span style="color:cyan;">Yeah.</span><br><span style="color:yellow;">Yes, let's go for it.</span></P></Sync>
+<Sync Start="1086920"><P class="ENCC"><span style="color:yellow;">I N G - help me out, guys.</span></P></Sync>
+<Sync Start="1089280"><P class="ENCC"><span style="color:cyan;">Yeah, erm...</span><br><span style="color:yellow;">&quot;De-arm&quot;?</span></P></Sync>
+<Sync Start="1091240"><P class="ENCC"><span style="color:cyan;">There was a frighten. F R, in the...</span></P></Sync>
+<Sync Start="1093600"><P class="ENCC"><span style="color:cyan;">F R, on the other... Far side.</span></P></Sync>
+<Sync Start="1095520"><P class="ENCC"><span style="color:cyan;">Then I G.</span><br><span style="color:yellow;">F R...</span></P></Sync>
+<Sync Start="1097400"><P class="ENCC"><span style="color:yellow;">F R, I G.</span></P></Sync>
+<Sync Start="1098600"><P class="ENCC"><span style="color:yellow;">Then the next one in, I G.</span></P></Sync>
+<Sync Start="1100120"><P class="ENCC"><span style="color:cyan;">No, no, there's two sets of I G.</span><br><span style="color:cyan;">There's two sets of I G.</span></P></Sync>
+<Sync Start="1102280"><P class="ENCC"><span style="color:white;">Yelliott is very dominant</span><br><span style="color:white;">in this game. All over it.</span></P></Sync>
+<Sync Start="1104480"><P class="ENCC"><span style="color:cyan;">So there might be...</span><br><span style="color:cyan;">It might be the other one.</span></P></Sync>
+<Sync Start="1106360"><P class="ENCC"><span style="color:#11FF11;">What about &quot;framing&quot;?</span><br><span style="color:#11FF11;">Is &quot;framing&quot; in there?</span></P></Sync>
+<Sync Start="1108320"><P class="ENCC"><span style="color:white;">30 seconds left. 30 seconds left!</span></P></Sync>
+<Sync Start="1110360"><P class="ENCC"><span style="color:#11FF11;">You haven't got &quot;aim,&quot; have you?</span><br><span style="color:yellow;">Er...</span></P></Sync>
+<Sync Start="1114360"><P class="ENCC"></P></Sync>
+<Sync Start="1115520"><P class="ENCC"><span style="color:yellow;">De...</span></P></Sync>
+<Sync Start="1117280"><P class="ENCC"><span style="color:white;">20 seconds.</span></P></Sync>
+<Sync Start="1119240"><P class="ENCC"><span style="color:yellow;">&quot;Dreaming, dreaming&quot;!</span><br><span style="color:cyan;">Come out, come out!</span></P></Sync>
+<Sync Start="1121120"><P class="ENCC"><span style="color:white;">It looks like he's done it.</span><br><span style="color:cyan;">&quot;Dreaming&quot; - you've got it,.</span></P></Sync>
+<Sync Start="1123440"><P class="ENCC"><span style="color:yellow;">Where's the...?  </span><span style="color:cyan;">It's in the middle,</span><br><span style="color:cyan;">it's in the middle.</span></P></Sync>
+<Sync Start="1125680"><P class="ENCC"><span style="color:cyan;">In the middle - quick, get it.</span><br><span style="color:cyan;">Get it.</span></P></Sync>
+<Sync Start="1127240"><P class="ENCC"><span style="color:cyan;">Get it. Come out, come out, come</span><br><span style="color:cyan;">out. Come out, come out.</span></P></Sync>
+<Sync Start="1129520"><P class="ENCC"><span style="color:cyan;">Get it, get it, come out.</span><br><span style="color:white;">Eight, seven, six...</span></P></Sync>
+<Sync Start="1132760"><P class="ENCC"><span style="color:white;">..five, four, three...</span></P></Sync>
+<Sync Start="1135240"><P class="ENCC"><span style="color:white;">Oh, there he goes, Angaz!</span></P></Sync>
+<Sync Start="1137480"><P class="ENCC"><span style="color:yellow;">Yeah!</span><br><span style="color:white;">Very good.</span></P></Sync>
+<Sync Start="1139600"><P class="ENCC"><span style="color:white;">Oh! Angaz, incredible.</span></P></Sync>
+<Sync Start="1143440"><P class="ENCC"><span style="color:white;">The hand. There's no body contact</span><br><span style="color:white;">on this show.</span></P></Sync>
+<Sync Start="1146920"><P class="ENCC"><span style="color:white;">It's the hand. There you go.</span></P></Sync>
+<Sync Start="1149360"><P class="ENCC"><span style="color:yellow;">Yes!  </span><span style="color:cyan;">Well done, Gaz.</span><br><span style="color:yellow;">I thought you said ten seconds.</span></P></Sync>
+<Sync Start="1151680"><P class="ENCC"><span style="color:white;">You did very well. I mean, you did,</span><br><span style="color:white;">you just scraped it.</span></P></Sync>
+<Sync Start="1154640"><P class="ENCC"><span style="color:white;">Now, let's back you into there,</span><br><span style="color:white;">let's bunch up.</span></P></Sync>
+<Sync Start="1156760"><P class="ENCC"><span style="color:white;">Let's bunch up. Let's re-establish</span><br><span style="color:white;">some divisions.</span></P></Sync>
+<Sync Start="1159080"><P class="ENCC"><span style="color:white;">I'll take that. Very good.</span></P></Sync>
+<Sync Start="1161200"><P class="ENCC"><span style="color:yellow;">Yes!  </span><span style="color:white;">I was almost trapped into</span><br><span style="color:white;">a group hug there.</span></P></Sync>
+<Sync Start="1165200"><P class="ENCC"></P></Sync>
+<Sync Start="1165760"><P class="ENCC"><span style="color:white;">I don't know what would've happened.</span></P></Sync>
+<Sync Start="1167400"><P class="ENCC"><span style="color:white;">I might've loosened up.</span><br><span style="color:white;">It would've been terrible.</span></P></Sync>
+<Sync Start="1169720"><P class="ENCC"><span style="color:white;">Very good. Hard game.</span></P></Sync>
+<Sync Start="1171560"><P class="ENCC"><span style="color:white;">You played well together.</span><br><span style="color:white;">Yelliott was all over it.</span></P></Sync>
+<Sync Start="1174200"><P class="ENCC"><span style="color:white;">Very good. The next game we have</span><br><span style="color:white;">is a physical game.</span></P></Sync>
+<Sync Start="1178200"><P class="ENCC"></P></Sync>
+<Sync Start="1178680"><P class="ENCC"><span style="color:white;">OK. Green Ash.</span></P></Sync>
+<Sync Start="1180640"><P class="ENCC"><span style="color:cyan;">Physical game for this one.</span><br><span style="color:cyan;">Kane hasn't done one yet, so Kane.</span></P></Sync>
+<Sync Start="1183160"><P class="ENCC"><span style="color:yellow;">Physical guy.</span><br><span style="color:white;">Kane, physical guy.</span></P></Sync>
+<Sync Start="1184840"><P class="ENCC"><span style="color:white;">We know that by now,</span><br><span style="color:white;">after you vaulted that fence.</span></P></Sync>
+<Sync Start="1187360"><P class="ENCC"><span style="color:white;">Come with!</span></P></Sync>
+<Sync Start="1189800"><P class="ENCC"><span style="color:white;">And I'm going to pivot you round.</span></P></Sync>
+<Sync Start="1191520"><P class="ENCC"><span style="color:white;">Tuck in. In there.</span></P></Sync>
+<Sync Start="1192880"><P class="ENCC"><span style="color:white;">OK. Very good.</span></P></Sync>
+<Sync Start="1196640"><P class="ENCC"><span style="color:white;">You have three minutes from when</span><br><span style="color:white;">I close this door.</span></P></Sync>
+<Sync Start="1199800"><P class="ENCC"><span style="color:white;">I've a very good feeling about this.</span></P></Sync>
+<Sync Start="1202080"><P class="ENCC"><span style="color:white;">Here we go. In you go.</span></P></Sync>
+<Sync Start="1203480"><P class="ENCC"><span style="color:cyan;">Come on, Kane.</span><br><span style="color:#11FF11;">Come on, Kane.</span></P></Sync>
+<Sync Start="1207480"><P class="ENCC"></P></Sync>
+<Sync Start="1208160"><P class="ENCC"><span style="color:yellow;">Right.</span><br><span style="color:cyan;">Read it out.</span></P></Sync>
+<Sync Start="1209440"><P class="ENCC"><span style="color:yellow;">&quot;To unlock,&quot; and then it's got a</span><br><span style="color:yellow;">sign of a bird, on the top left,</span></P></Sync>
+<Sync Start="1212600"><P class="ENCC"><span style="color:yellow;">sign of a foot on the bottom left,</span><br><span style="color:yellow;">sign of a pyramid on the top right,</span></P></Sync>
+<Sync Start="1216000"><P class="ENCC"><span style="color:yellow;">and a sun on the bottom right.</span><br><span style="color:cyan;">Right, there's some bricks there.</span></P></Sync>
+<Sync Start="1220000"><P class="ENCC"></P></Sync>
+<Sync Start="1221000"><P class="ENCC"><span style="color:cyan;">Yeah, so get the ones that you...</span></P></Sync>
+<Sync Start="1223640"><P class="ENCC"><span style="color:cyan;">Oh, you have to go underneath,</span><br><span style="color:cyan;">there.</span></P></Sync>
+<Sync Start="1225240"><P class="ENCC"><span style="color:cyan;">Kane.  </span><span style="color:yellow;">What?</span><br><span style="color:cyan;">Looking for it underneath.</span></P></Sync>
+<Sync Start="1227680"><P class="ENCC"><span style="color:cyan;">Then put the bricks in.</span></P></Sync>
+<Sync Start="1229320"><P class="ENCC"><span style="color:#11FF11;">Jump in.  </span><span style="color:cyan;">Just put them on the top</span><br><span style="color:cyan;">of the, erm...</span></P></Sync>
+<Sync Start="1231360"><P class="ENCC"><span style="color:cyan;">On the top. Don't put them under.</span></P></Sync>
+<Sync Start="1233240"><P class="ENCC"><span style="color:cyan;">It says...  </span><span style="color:#11FF11;">Yeah, yeah.</span><br><span style="color:yellow;">On the top of where?</span></P></Sync>
+<Sync Start="1236000"><P class="ENCC"><span style="color:cyan;">On top of the...</span><br><span style="color:white;">Now...</span></P></Sync>
+<Sync Start="1237360"><P class="ENCC"><span style="color:yellow;">Do I have to throw them in?</span></P></Sync>
+<Sync Start="1238800"><P class="ENCC"><span style="color:white;">..is there any kind of colour coding</span><br><span style="color:white;">going on with the signs?</span></P></Sync>
+<Sync Start="1242120"><P class="ENCC"><span style="color:cyan;">Is there any colour coding?</span><br><span style="color:cyan;">Is there any colour coding?</span></P></Sync>
+<Sync Start="1244640"><P class="ENCC"><span style="color:#11FF11;">Is there a colour code?</span><br><span style="color:cyan;">So get the ones you need.</span></P></Sync>
+<Sync Start="1247000"><P class="ENCC"><span style="color:yellow;">No, no, there's a sign code</span><br><span style="color:yellow;">for the ones I need, or not.</span></P></Sync>
+<Sync Start="1249400"><P class="ENCC"><span style="color:cyan;">You have to take them underneath</span><br><span style="color:cyan;">there anyway.</span></P></Sync>
+<Sync Start="1251320"><P class="ENCC"><span style="color:yellow;">There's one with a foot on.</span></P></Sync>
+<Sync Start="1252840"><P class="ENCC"><span style="color:#11FF11;">Take one with you.</span><br><span style="color:cyan;">There's a bird - is there a bird?</span></P></Sync>
+<Sync Start="1254880"><P class="ENCC"><span style="color:white;">Kane, what colour are the blocks?</span></P></Sync>
+<Sync Start="1256320"><P class="ENCC"><span style="color:cyan;">Get the bird...</span><br><span style="color:#11FF11;">What colour are the blocks?</span></P></Sync>
+<Sync Start="1258120"><P class="ENCC"><span style="color:white;">What colour are the blocks, Kane?</span></P></Sync>
+<Sync Start="1259520"><P class="ENCC"><span style="color:yellow;">Bird...  </span><span style="color:cyan;">He's asking you what colour.</span><br><span style="color:cyan;">They're red.</span></P></Sync>
+<Sync Start="1261600"><P class="ENCC"><span style="color:yellow;">What colour are the blocks?</span><br><span style="color:cyan;">The blocks are red.</span></P></Sync>
+<Sync Start="1263520"><P class="ENCC"><span style="color:#11FF11;">The blocks are red.</span><br><span style="color:yellow;">The blocks are red.</span></P></Sync>
+<Sync Start="1265120"><P class="ENCC"><span style="color:white;">The blocks are red. What colour are</span><br><span style="color:white;">the blocks on the sign?</span></P></Sync>
+<Sync Start="1267480"><P class="ENCC"><span style="color:cyan;">What colour are the blocks on the</span><br><span style="color:cyan;">sign?  </span><span style="color:yellow;">Blue. Blue.</span></P></Sync>
+<Sync Start="1270160"><P class="ENCC"><span style="color:white;">Blue. Might there be some other</span><br><span style="color:white;">blocks in the room?</span></P></Sync>
+<Sync Start="1272240"><P class="ENCC"><span style="color:cyan;">There'll be some other blocks in the</span><br><span style="color:cyan;">room.  </span><span style="color:yellow;">Oh, it's on the other side.</span></P></Sync>
+<Sync Start="1275040"><P class="ENCC"><span style="color:#11FF11;">Explore it. Look under it.  </span><span style="color:cyan;">Go, go.</span></P></Sync>
+<Sync Start="1278880"><P class="ENCC"><span style="color:#11FF11;">Go, right to the back.</span><br><span style="color:cyan;">Go explore it.  </span><span style="color:#11FF11;">Right to the back.</span></P></Sync>
+<Sync Start="1281200"><P class="ENCC"><span style="color:#11FF11;">Right to the back.</span></P></Sync>
+<Sync Start="1284400"><P class="ENCC"><span style="color:white;">We've put in footholds,</span><br><span style="color:white;">but he doesn't seem to need them.</span></P></Sync>
+<Sync Start="1286720"><P class="ENCC"><span style="color:white;">He's just leapt the wall,</span><br><span style="color:white;">like a salmon.</span></P></Sync>
+<Sync Start="1288360"><P class="ENCC"><span style="color:#11FF11;">Foot, bottom left.</span></P></Sync>
+<Sync Start="1292120"><P class="ENCC"><span style="color:#11FF11;">Foot, bottom left.</span></P></Sync>
+<Sync Start="1294920"><P class="ENCC"><span style="color:cyan;">So, eh, there's a...</span></P></Sync>
+<Sync Start="1295960"><P class="ENCC"><span style="color:yellow;">Why don't you put them in here?</span><br><span style="color:cyan;">There's a bird.</span></P></Sync>
+<Sync Start="1298800"><P class="ENCC"><span style="color:yellow;">Oh. Bird... How long left?</span></P></Sync>
+<Sync Start="1301880"><P class="ENCC"><span style="color:cyan;">Halfway through, Kane.</span><br><span style="color:cyan;">You're halfway through.</span></P></Sync>
+<Sync Start="1303920"><P class="ENCC"><span style="color:#11FF11;">Bird, top left!</span></P></Sync>
+<Sync Start="1305120"><P class="ENCC"><span style="color:white;">That's good. You're doing well.</span><br><span style="color:white;">I think they're onto it.</span></P></Sync>
+<Sync Start="1307440"><P class="ENCC"><span style="color:yellow;">Top right is a...</span><br><span style="color:yellow;">It looks like a...</span></P></Sync>
+<Sync Start="1308960"><P class="ENCC"><span style="color:cyan;">Pyramid?</span><br><span style="color:yellow;">Aztec pyramid. Aztec pyramid.</span></P></Sync>
+<Sync Start="1311160"><P class="ENCC"><span style="color:#11FF11;">What's the bottom right?</span><br><span style="color:yellow;">Bottom right-hand...</span></P></Sync>
+<Sync Start="1313120"><P class="ENCC"><span style="color:yellow;">The sun. The sun, the sun.</span><br><span style="color:cyan;">The sun, bottom right.</span></P></Sync>
+<Sync Start="1317120"><P class="ENCC"></P></Sync>
+<Sync Start="1317600"><P class="ENCC"><span style="color:cyan;">Yes!</span><br><span style="color:yellow;">Yes!</span></P></Sync>
+<Sync Start="1318920"><P class="ENCC"><span style="color:white;">The statue's revealed another clue.</span></P></Sync>
+<Sync Start="1322080"><P class="ENCC"><span style="color:yellow;">Right, so it's the...</span></P></Sync>
+<Sync Start="1324120"><P class="ENCC"><span style="color:yellow;">It's waves. Waves, the hand...</span></P></Sync>
+<Sync Start="1326400"><P class="ENCC"><span style="color:cyan;">We should've brought all those over.</span><br><span style="color:#11FF11;">We can see that from here.</span></P></Sync>
+<Sync Start="1328960"><P class="ENCC"><span style="color:yellow;">Where do they go?  </span><span style="color:#11FF11;">Ash, surely you</span><br><span style="color:#11FF11;">can read that from there.</span></P></Sync>
+<Sync Start="1332360"><P class="ENCC"><span style="color:cyan;">What...?</span></P></Sync>
+<Sync Start="1333560"><P class="ENCC"><span style="color:yellow;">On here?</span><br><span style="color:#11FF11;">On here, this one.</span></P></Sync>
+<Sync Start="1335120"><P class="ENCC"><span style="color:cyan;">Oh, this one, this one!</span><br><span style="color:cyan;">This one over here.</span></P></Sync>
+<Sync Start="1336880"><P class="ENCC"><span style="color:cyan;">This one.</span><br><span style="color:#11FF11;">Get over, quick, quick, quick.</span></P></Sync>
+<Sync Start="1339520"><P class="ENCC"><span style="color:cyan;">There you are, Kane.</span></P></Sync>
+<Sync Start="1340840"><P class="ENCC"><span style="color:cyan;">Quick, quick.</span><br><span style="color:#11FF11;">Yes, that's it.</span></P></Sync>
+<Sync Start="1342920"><P class="ENCC"><span style="color:#11FF11;">45 seconds.</span><br><span style="color:cyan;">So you need the one with the, erm...</span></P></Sync>
+<Sync Start="1345480"><P class="ENCC"><span style="color:cyan;">..the, like, things on the bottom.</span><br><span style="color:cyan;">Show me them. Show me them.</span></P></Sync>
+<Sync Start="1348280"><P class="ENCC"><span style="color:#11FF11;">He knows them, he knows them.</span></P></Sync>
+<Sync Start="1349480"><P class="ENCC"><span style="color:white;">This guy's trying to get in -</span><br><span style="color:white;">look at him!</span></P></Sync>
+<Sync Start="1351120"><P class="ENCC"><span style="color:yellow;">The hand was one.</span><br><span style="color:cyan;">The hand, yeah.  </span><span style="color:#11FF11;">Put the hand in.</span></P></Sync>
+<Sync Start="1353760"><P class="ENCC"><span style="color:#11FF11;">The hand is in the, er,</span><br><span style="color:#11FF11;">top left, isn't it?</span></P></Sync>
+<Sync Start="1356720"><P class="ENCC"><span style="color:white;">30 seconds left.</span></P></Sync>
+<Sync Start="1357960"><P class="ENCC"><span style="color:#11FF11;">30 seconds left.</span><br><span style="color:#11FF11;">Go on, you've got loads of time.</span></P></Sync>
+<Sync Start="1360040"><P class="ENCC"><span style="color:cyan;">And what was the other one?</span></P></Sync>
+<Sync Start="1361760"><P class="ENCC"><span style="color:yellow;">The other one is, like, a...</span></P></Sync>
+<Sync Start="1362960"><P class="ENCC"><span style="color:cyan;">Face them upright. Face them upright</span><br><span style="color:cyan;">so we can see them.</span></P></Sync>
+<Sync Start="1365200"><P class="ENCC"><span style="color:#11FF11;">The other one - show me the other</span><br><span style="color:#11FF11;">one. The other one?</span></P></Sync>
+<Sync Start="1367280"><P class="ENCC"><span style="color:white;">20 seconds.</span></P></Sync>
+<Sync Start="1368400"><P class="ENCC"><span style="color:#11FF11;">It's that one, Ash.  </span><span style="color:cyan;">That one there,</span><br><span style="color:cyan;">I think, the tree thing.</span></P></Sync>
+<Sync Start="1370800"><P class="ENCC"><span style="color:yellow;">The tree?  </span><span style="color:#11FF11;">Yeah, yeah, go.</span><br><span style="color:#11FF11;">20 seconds.  </span><span style="color:cyan;">Go for it.</span></P></Sync>
+<Sync Start="1372960"><P class="ENCC"><span style="color:white;">15 seconds.</span><br><span style="color:#11FF11;">15 seconds!</span></P></Sync>
+<Sync Start="1374920"><P class="ENCC"><span style="color:#11FF11;">Keep going. No?</span><br><span style="color:white;">I'm counting out now.</span></P></Sync>
+<Sync Start="1377080"><P class="ENCC"><span style="color:cyan;">Top left.</span><br><span style="color:white;">Ten, nine, eight...</span></P></Sync>
+<Sync Start="1379160"><P class="ENCC"><span style="color:cyan;">Come out, come out, come out!</span></P></Sync>
+<Sync Start="1380760"><P class="ENCC"><span style="color:white;">..seven, six, five, four, three...</span></P></Sync>
+<Sync Start="1384720"><P class="ENCC"><span style="color:white;">I'm going to open the gate.</span></P></Sync>
+<Sync Start="1386240"><P class="ENCC"><span style="color:white;">Out you come. Oh, Kane.</span></P></Sync>
+<Sync Start="1388120"><P class="ENCC"><span style="color:cyan;">Oh, so close.</span><br><span style="color:cyan;">You did well, though. You did well.</span></P></Sync>
+<Sync Start="1390560"><P class="ENCC"><span style="color:white;">Very, very close.</span></P></Sync>
+<Sync Start="1392480"><P class="ENCC"><span style="color:white;">What do you think went wrong?  </span><span style="color:yellow;">I just</span><br><span style="color:yellow;">couldn't remember the sequence</span></P></Sync>
+<Sync Start="1395360"><P class="ENCC"><span style="color:yellow;">from the other side,</span><br><span style="color:yellow;">when I got back.</span></P></Sync>
+<Sync Start="1397160"><P class="ENCC"><span style="color:white;">That's a shame. That is tough, yes.</span></P></Sync>
+<Sync Start="1399200"><P class="ENCC"><span style="color:white;">But, look, let's recap -</span><br><span style="color:white;">you've won one and you've lost one.</span></P></Sync>
+<Sync Start="1403200"><P class="ENCC"></P></Sync>
+<Sync Start="1403280"><P class="ENCC"><span style="color:white;">Let's not dwell on this. We've still</span><br><span style="color:white;">got three crystals overall.</span></P></Sync>
+<Sync Start="1406080"><P class="ENCC"><span style="color:white;">We're only halfway through.</span></P></Sync>
+<Sync Start="1407960"><P class="ENCC"><span style="color:white;">I've still got a very good feeling</span><br><span style="color:white;">about this.</span></P></Sync>
+<Sync Start="1410080"><P class="ENCC"><span style="color:white;">I think you can pick this up</span><br><span style="color:white;">in the next zone.</span></P></Sync>
+<Sync Start="1412000"><P class="ENCC"><span style="color:white;">By the time you get there,</span><br><span style="color:white;">you may well have dried out.</span></P></Sync>
+<Sync Start="1415280"><P class="ENCC"><span style="color:yellow;">Let's hope so.</span><br><span style="color:white;">Let's ascend this wall!</span></P></Sync>
+<Sync Start="1419280"><P class="ENCC"></P></Sync>
+<Sync Start="1420160"><P class="ENCC"><span style="color:white;">OK...</span></P></Sync>
+<Sync Start="1422600"><P class="ENCC"><span style="color:cyan;">Let's go.</span></P></Sync>
+<Sync Start="1426600"><P class="ENCC"></P></Sync>
+<Sync Start="1427480"><P class="ENCC"><span style="color:white;">This lacks dignity.</span></P></Sync>
+<Sync Start="1435000"><P class="ENCC"></P></Sync>
+
+<Sync Start="1435000"><P class="ENCC"></P></Sync>
+<Sync Start="1438160"><P class="ENCC"><span style="color:white;">Here we go. Fast and safe.</span></P></Sync>
+<Sync Start="1441840"><P class="ENCC"><span style="color:yellow;">That's it.  </span><span style="color:white;">OK, fast and safe,</span><br><span style="color:white;">fast and safe.</span></P></Sync>
+<Sync Start="1445840"><P class="ENCC"></P></Sync>
+<Sync Start="1453560"><P class="ENCC"><span style="color:white;">I told you you'd be dry.</span></P></Sync>
+<Sync Start="1455560"><P class="ENCC"><span style="color:white;">Very good.  </span><span style="color:yellow;">I just ran fast.</span></P></Sync>
+<Sync Start="1456960"><P class="ENCC"><span style="color:white;">It's the naked flames.</span></P></Sync>
+<Sync Start="1459000"><P class="ENCC"><span style="color:white;">Welcome to the Medieval Zone.</span></P></Sync>
+<Sync Start="1460720"><P class="ENCC"><span style="color:white;">You actually look very good in this</span><br><span style="color:white;">zone.</span></P></Sync>
+<Sync Start="1463360"><P class="ENCC"><span style="color:white;">I think this may be your zone.</span></P></Sync>
+<Sync Start="1464640"><P class="ENCC"><span style="color:white;">It kind of suits you.  </span><span style="color:yellow;">Maybe, yeah.</span></P></Sync>
+<Sync Start="1466480"><P class="ENCC"><span style="color:white;">And this guy's not looking out of</span><br><span style="color:white;">place, either.</span></P></Sync>
+<Sync Start="1468440"><P class="ENCC"><span style="color:white;">It's a - it's a strong look.</span></P></Sync>
+<Sync Start="1470000"><P class="ENCC"><span style="color:yellow;">Works for me.  </span><span style="color:white;">I like it.</span></P></Sync>
+<Sync Start="1471560"><P class="ENCC"><span style="color:white;">Now, the first game we're playing</span><br><span style="color:white;">here is a physical game, OK?</span></P></Sync>
+<Sync Start="1475560"><P class="ENCC"></P></Sync>
+<Sync Start="1475760"><P class="ENCC"><span style="color:white;">Who's going to be playing?</span></P></Sync>
+<Sync Start="1477200"><P class="ENCC"><span style="color:yellow;">Right, for a physical, we're going</span><br><span style="color:yellow;">to go with El.</span></P></Sync>
+<Sync Start="1479720"><P class="ENCC"><span style="color:white;">This guy, Yelliot, the positive one.</span><br><span style="color:cyan;">Yes.  </span><span style="color:white;">OK.  </span><span style="color:cyan;">Let's do this.</span></P></Sync>
+<Sync Start="1483160"><P class="ENCC"><span style="color:white;">You're in the right place now.</span></P></Sync>
+<Sync Start="1484520"><P class="ENCC"><span style="color:cyan;">Let's do this.  </span><span style="color:white;">I've just got to do</span><br><span style="color:white;">this. OK.</span></P></Sync>
+<Sync Start="1487320"><P class="ENCC"><span style="color:white;">This is...</span></P></Sync>
+<Sync Start="1489800"><P class="ENCC"><span style="color:white;">..an ALIS, an automatic</span><br><span style="color:white;">lock-in situation.</span></P></Sync>
+<Sync Start="1492680"><P class="ENCC"><span style="color:white;">When I close this door,</span><br><span style="color:white;">you've got two mins.</span></P></Sync>
+<Sync Start="1495880"><P class="ENCC"><span style="color:white;">The ALIS will become apparent when</span><br><span style="color:white;">you're within.</span></P></Sync>
+<Sync Start="1498680"><P class="ENCC"><span style="color:cyan;">Yeah.  </span><span style="color:white;">Good luck.  </span><span style="color:cyan;">Thank you.</span></P></Sync>
+<Sync Start="1499920"><P class="ENCC"><span style="color:white;">You're looking very focused.</span></P></Sync>
+<Sync Start="1501920"><P class="ENCC"><span style="color:cyan;">I'm ready.  </span><span style="color:white;">Good, in you go.</span></P></Sync>
+<Sync Start="1503640"><P class="ENCC"><span style="color:white;">Two mins from the</span><br><span style="color:white;">time I close this door.</span></P></Sync>
+<Sync Start="1506640"><P class="ENCC"><span style="color:cyan;">Right.</span></P></Sync>
+<Sync Start="1508080"><P class="ENCC"><span style="color:white;">OK.  </span><span style="color:cyan;">There isn't any instructions I</span><br><span style="color:cyan;">can see.</span></P></Sync>
+<Sync Start="1510360"><P class="ENCC"><span style="color:yellow;">Read the instructions if there</span><br><span style="color:yellow;">is any.</span></P></Sync>
+<Sync Start="1512040"><P class="ENCC"><span style="color:cyan;">It looks like I, I just have to walk</span><br><span style="color:cyan;">across and get it.</span></P></Sync>
+<Sync Start="1514480"><P class="ENCC"><span style="color:yellow;">OK, just keep your balance, then,</span><br><span style="color:yellow;">keep your balance.</span></P></Sync>
+<Sync Start="1516680"><P class="ENCC"><span style="color:cyan;">Is it, is it that simple?  </span><span style="color:#11FF11;">Yeah.</span></P></Sync>
+<Sync Start="1517960"><P class="ENCC"><span style="color:yellow;">It's got to be. Go on, keep going.</span></P></Sync>
+<Sync Start="1519680"><P class="ENCC"><span style="color:yellow;">Keep going.  </span><span style="color:cyan;">Keep your balance.</span></P></Sync>
+<Sync Start="1521240"><P class="ENCC"><span style="color:#11FF11;">It might start moving, maybe.</span></P></Sync>
+<Sync Start="1522760"><P class="ENCC"><span style="color:white;">If you touch the ground, you're</span><br><span style="color:white;">locked in.</span></P></Sync>
+<Sync Start="1525240"><P class="ENCC"><span style="color:yellow;">Oh, you need something to reach it!</span></P></Sync>
+<Sync Start="1527120"><P class="ENCC"><span style="color:cyan;">Is there anything around to reach</span><br><span style="color:cyan;">it?</span></P></Sync>
+<Sync Start="1528760"><P class="ENCC"><span style="color:#11FF11;">Don't touch the floor.  </span><span style="color:yellow;">Turn around.</span></P></Sync>
+<Sync Start="1530240"><P class="ENCC"><span style="color:white;">Maybe it is that simple.</span></P></Sync>
+<Sync Start="1531480"><P class="ENCC"><span style="color:yellow;">OK, keep going, go, go, go, go.</span></P></Sync>
+<Sync Start="1535480"><P class="ENCC"></P></Sync>
+<Sync Start="1537440"><P class="ENCC"><span style="color:yellow;">Oh!</span></P></Sync>
+<Sync Start="1539440"><P class="ENCC"><span style="color:white;">The last thing you want in rock</span><br><span style="color:white;">is a missing bridge.</span></P></Sync>
+<Sync Start="1541560"><P class="ENCC"><span style="color:yellow;">You've got to use the gaps in</span><br><span style="color:yellow;">the wall to clamber back across.</span></P></Sync>
+<Sync Start="1544000"><P class="ENCC"><span style="color:#11FF11;">Oh, yeah, look.  </span><span style="color:cyan;">OK, all right.</span><br><span style="color:cyan;">Oh, dear.  </span><span style="color:yellow;">The gaps in the wall.</span></P></Sync>
+<Sync Start="1546960"><P class="ENCC"><span style="color:white;">Yeah.  </span><span style="color:cyan;">Is there a... Yeah, yeah,</span><br><span style="color:cyan;">look.</span></P></Sync>
+<Sync Start="1548760"><P class="ENCC"><span style="color:yellow;">Feet in them holes.  </span><span style="color:white;">Is there</span><br><span style="color:white;">anything else in the box?</span></P></Sync>
+<Sync Start="1551000"><P class="ENCC"><span style="color:#11FF11;">Is there anything else in the box?</span></P></Sync>
+<Sync Start="1552440"><P class="ENCC"><span style="color:white;">Have a look in the box. Anything to</span><br><span style="color:white;">help you?</span></P></Sync>
+<Sync Start="1554600"><P class="ENCC"><span style="color:white;">Yes.  </span><span style="color:#11FF11;">Yeah.  </span><span style="color:white;">Two planks.</span></P></Sync>
+<Sync Start="1557240"><P class="ENCC"><span style="color:white;">Make sure they go in to the</span><br><span style="color:white;">gold line.</span></P></Sync>
+<Sync Start="1559680"><P class="ENCC"><span style="color:yellow;">One at a time, one at a time.</span><br><span style="color:#11FF11;">Yeah, up to the gold line.</span></P></Sync>
+<Sync Start="1562280"><P class="ENCC"><span style="color:white;">Go deep with the flank,</span><br><span style="color:white;">that's right.</span></P></Sync>
+<Sync Start="1566280"><P class="ENCC"></P></Sync>
+<Sync Start="1566640"><P class="ENCC"><span style="color:yellow;">Go on.</span></P></Sync>
+<Sync Start="1568840"><P class="ENCC"><span style="color:yellow;">OK, Els, as quick as you can.</span><br><span style="color:#11FF11;">Stand on that one and you can</span></P></Sync>
+<Sync Start="1571520"><P class="ENCC"><span style="color:#11FF11;">come back out.  </span><span style="color:white;">Come on, Yelliot.</span><br><span style="color:white;">That's right, Yelliot.</span></P></Sync>
+<Sync Start="1573920"><P class="ENCC"><span style="color:yellow;">Go for it, El.  </span><span style="color:#11FF11;">Pick it up.  </span><span style="color:yellow;">Come</span><br><span style="color:yellow;">on, you've got it.</span></P></Sync>
+<Sync Start="1576000"><P class="ENCC"><span style="color:yellow;">You've got it.  </span><span style="color:#11FF11;">Come on, pull it out.</span></P></Sync>
+<Sync Start="1579560"><P class="ENCC"><span style="color:yellow;">Is it stuck?</span></P></Sync>
+<Sync Start="1580800"><P class="ENCC"><span style="color:yellow;">Wiggle it. That's it.</span></P></Sync>
+<Sync Start="1582840"><P class="ENCC"><span style="color:yellow;">You've got it. Next one.</span></P></Sync>
+<Sync Start="1584400"><P class="ENCC"><span style="color:#11FF11;">Next one.</span></P></Sync>
+<Sync Start="1586440"><P class="ENCC"><span style="color:#11FF11;">Go on.</span></P></Sync>
+<Sync Start="1588320"><P class="ENCC"><span style="color:yellow;">Keep going.  </span><span style="color:#11FF11;">Keep going, push, push,</span><br><span style="color:#11FF11;">push.</span></P></Sync>
+<Sync Start="1592320"><P class="ENCC"></P></Sync>
+<Sync Start="1592800"><P class="ENCC"><span style="color:yellow;">That's it, that's it. Go.</span></P></Sync>
+<Sync Start="1594720"><P class="ENCC"><span style="color:yellow;">Right, last one out.  </span><span style="color:white;">30 seconds.</span></P></Sync>
+<Sync Start="1596360"><P class="ENCC"><span style="color:yellow;">Go on.</span></P></Sync>
+<Sync Start="1597640"><P class="ENCC"><span style="color:yellow;">Go on.</span></P></Sync>
+<Sync Start="1600520"><P class="ENCC"><span style="color:#11FF11;">Go on, El. That's it. Go.  </span><span style="color:yellow;">Come on.</span><br><span style="color:yellow;">Do the next one.</span></P></Sync>
+<Sync Start="1603280"><P class="ENCC"><span style="color:#11FF11;">Come on, come on.</span></P></Sync>
+<Sync Start="1607080"><P class="ENCC"><span style="color:yellow;">Go on, El.  </span><span style="color:white;">Come on.  </span><span style="color:#11FF11;">Come on.  </span><span style="color:yellow;">Go on.</span></P></Sync>
+<Sync Start="1610920"><P class="ENCC"><span style="color:yellow;">Go on, come on, El,</span><br><span style="color:yellow;">as quick as you can.</span></P></Sync>
+<Sync Start="1612760"><P class="ENCC"><span style="color:white;">You need to be quick here.</span></P></Sync>
+<Sync Start="1614080"><P class="ENCC"><span style="color:cyan;">Right, OK.  </span><span style="color:white;">You're close now.</span></P></Sync>
+<Sync Start="1616040"><P class="ENCC"><span style="color:white;">I'm counting you out, ten, nine,</span></P></Sync>
+<Sync Start="1618920"><P class="ENCC"><span style="color:white;">eight, seven, six, five, four,</span></P></Sync>
+<Sync Start="1622920"><P class="ENCC"></P></Sync>
+<Sync Start="1623800"><P class="ENCC"><span style="color:white;">three, two, one.</span></P></Sync>
+<Sync Start="1627440"><P class="ENCC"><span style="color:white;">CHEERING</span></P></Sync>
+<Sync Start="1631280"><P class="ENCC"><span style="color:white;">You're surrounding me again, lads,</span><br><span style="color:white;">you're surrounding me.</span></P></Sync>
+<Sync Start="1633720"><P class="ENCC"><span style="color:yellow;">Oh, sorry.  </span><span style="color:white;">Very good, Yelliot.</span></P></Sync>
+<Sync Start="1635600"><P class="ENCC"><span style="color:white;">You had less than a second.</span></P></Sync>
+<Sync Start="1637600"><P class="ENCC"><span style="color:white;">Was that, erm, like a highway to</span><br><span style="color:white;">hell?</span></P></Sync>
+<Sync Start="1639360"><P class="ENCC"><span style="color:cyan;">It was, it was a highway to hell.</span></P></Sync>
+<Sync Start="1640680"><P class="ENCC"><span style="color:white;">That's an AC/DC song.</span></P></Sync>
+<Sync Start="1642960"><P class="ENCC"><span style="color:white;">Just tying it in. We're building a</span><br><span style="color:white;">narrative, here.</span></P></Sync>
+<Sync Start="1645800"><P class="ENCC"><span style="color:white;">Excellent. You're back.</span></P></Sync>
+<Sync Start="1648160"><P class="ENCC"><span style="color:white;">Not in black, but in crystal.</span></P></Sync>
+<Sync Start="1651240"><P class="ENCC"><span style="color:white;">That's, yeah, I mean, I'm labouring</span><br><span style="color:white;">this now.</span></P></Sync>
+<Sync Start="1653480"><P class="ENCC"><span style="color:white;">The point is, the next game is a</span><br><span style="color:white;">mental game.</span></P></Sync>
+<Sync Start="1656240"><P class="ENCC"><span style="color:white;">Who's playing?  </span><span style="color:yellow;">Right, OK, for this</span><br><span style="color:yellow;">one, I'd like to pick Angaz.</span></P></Sync>
+<Sync Start="1659520"><P class="ENCC"><span style="color:cyan;">Yes.  </span><span style="color:white;">Angaz, this guy.</span></P></Sync>
+<Sync Start="1660960"><P class="ENCC"><span style="color:white;">You've already won a mental game.</span></P></Sync>
+<Sync Start="1662600"><P class="ENCC"><span style="color:cyan;">I have.  </span><span style="color:white;">Let's try and make it</span><br><span style="color:white;">two. Come with.</span></P></Sync>
+<Sync Start="1664800"><P class="ENCC"><span style="color:white;">OK. Let's go!</span></P></Sync>
+<Sync Start="1668800"><P class="ENCC"></P></Sync>
+<Sync Start="1670080"><P class="ENCC"><span style="color:white;">We could have, we could have just</span><br><span style="color:white;">gone through here.</span></P></Sync>
+<Sync Start="1672880"><P class="ENCC"><span style="color:white;">Thinking about it now, we could have</span><br><span style="color:white;">gone... Just tuck in, tuck in.</span></P></Sync>
+<Sync Start="1676360"><P class="ENCC"><span style="color:white;">Watch out for the candles,</span><br><span style="color:white;">there, Ash,</span></P></Sync>
+<Sync Start="1678800"><P class="ENCC"><span style="color:white;">because that barnet could go up.</span></P></Sync>
+<Sync Start="1680920"><P class="ENCC"><span style="color:white;">We don't want that. OK.</span></P></Sync>
+<Sync Start="1682880"><P class="ENCC"><span style="color:white;">Well, from when I close this door,</span><br><span style="color:white;">you have three mins.</span></P></Sync>
+<Sync Start="1686640"><P class="ENCC"><span style="color:white;">I've got a good feeling about this.</span></P></Sync>
+<Sync Start="1688960"><P class="ENCC"><span style="color:white;">You're on the way back. In you go.</span></P></Sync>
+<Sync Start="1690960"><P class="ENCC"><span style="color:cyan;">Let there be rock.  </span><span style="color:yellow;">Come on!  </span><span style="color:white;">Exactly.</span></P></Sync>
+<Sync Start="1693640"><P class="ENCC"><span style="color:white;">Angaz is in.  </span><span style="color:cyan;">Complete the word chain</span><br><span style="color:cyan;">using the toys.</span></P></Sync>
+<Sync Start="1697640"><P class="ENCC"></P></Sync>
+<Sync Start="1698720"><P class="ENCC"><span style="color:yellow;">Complete the word chain using the</span><br><span style="color:yellow;">toys.</span></P></Sync>
+<Sync Start="1701760"><P class="ENCC"><span style="color:yellow;">Word chain using the toys, so what</span><br><span style="color:yellow;">word chain have you got?</span></P></Sync>
+<Sync Start="1704200"><P class="ENCC"><span style="color:cyan;">Fox, whistle, stop.  </span><span style="color:white;">Just say what</span><br><span style="color:white;">you see.</span></P></Sync>
+<Sync Start="1707360"><P class="ENCC"><span style="color:yellow;">Cat, whistle, stop.</span></P></Sync>
+<Sync Start="1709600"><P class="ENCC"><span style="color:cyan;">It's a fox.  </span><span style="color:yellow;">Fox.</span></P></Sync>
+<Sync Start="1710880"><P class="ENCC"><span style="color:#11FF11;">A wolf, wolf. Wolf whistle.</span><br><span style="color:cyan;">Wolf whistle.  </span><span style="color:yellow;">Yeah.  </span><span style="color:cyan;">Stop.</span></P></Sync>
+<Sync Start="1714480"><P class="ENCC"><span style="color:white;">Say what you see.  </span><span style="color:cyan;">Something else.</span></P></Sync>
+<Sync Start="1716280"><P class="ENCC"><span style="color:white;">That's not an infringement of</span><br><span style="color:white;">copyright.</span></P></Sync>
+<Sync Start="1718200"><P class="ENCC"><span style="color:white;">That's just words in an order.</span></P></Sync>
+<Sync Start="1719880"><P class="ENCC"><span style="color:yellow;">Put them on the table.  </span><span style="color:white;">It's nothing</span><br><span style="color:white;">like Catchphrase.</span></P></Sync>
+<Sync Start="1722080"><P class="ENCC"><span style="color:yellow;">Belt, stop belt, stop rabbit, no.</span></P></Sync>
+<Sync Start="1723480"><P class="ENCC"><span style="color:yellow;">Stop...</span></P></Sync>
+<Sync Start="1724880"><P class="ENCC"><span style="color:yellow;">Watch! Stopwatch.</span></P></Sync>
+<Sync Start="1725920"><P class="ENCC"><span style="color:yellow;">Watch.  </span><span style="color:#11FF11;">There.  </span><span style="color:yellow;">Stopwatch.  </span><span style="color:#11FF11;">Stopwatch.</span></P></Sync>
+<Sync Start="1727640"><P class="ENCC"><span style="color:yellow;">Watch.  </span><span style="color:cyan;">Stopwatch?</span></P></Sync>
+<Sync Start="1729680"><P class="ENCC"><span style="color:#11FF11;">Watch...  </span><span style="color:yellow;">Tower.</span></P></Sync>
+<Sync Start="1731520"><P class="ENCC"><span style="color:cyan;">Watch tower?  </span><span style="color:yellow;">Tower.</span></P></Sync>
+<Sync Start="1734280"><P class="ENCC"><span style="color:#11FF11;">Watch...</span></P></Sync>
+<Sync Start="1736160"><P class="ENCC"><span style="color:yellow;">Watch boots.</span></P></Sync>
+<Sync Start="1737520"><P class="ENCC"><span style="color:yellow;">Watch rabbit.  </span><span style="color:white;">What comes after</span><br><span style="color:white;">watch?</span></P></Sync>
+<Sync Start="1739640"><P class="ENCC"><span style="color:yellow;">Watchdog, there's a dog.  </span><span style="color:#11FF11;">A dog, a</span><br><span style="color:#11FF11;">dog, a bulldog.  </span><span style="color:white;">Ah, there's a dog.</span></P></Sync>
+<Sync Start="1743600"><P class="ENCC"><span style="color:yellow;">Up, the dog. Top shelf.  </span><span style="color:#11FF11;">There,</span><br><span style="color:#11FF11;">there, there.</span></P></Sync>
+<Sync Start="1747040"><P class="ENCC"><span style="color:white;">There you go.  </span><span style="color:cyan;">Watchdog.  </span><span style="color:white;">Not used to</span><br><span style="color:white;">going to the top shelf.</span></P></Sync>
+<Sync Start="1749600"><P class="ENCC"><span style="color:cyan;">Dog, dog.  </span><span style="color:white;">Good lad.  </span><span style="color:#11FF11;">Doghouse.</span></P></Sync>
+<Sync Start="1751520"><P class="ENCC"><span style="color:cyan;">Doghouse.  </span><span style="color:yellow;">Doghouse.</span></P></Sync>
+<Sync Start="1752680"><P class="ENCC"><span style="color:cyan;">Doghouse.  </span><span style="color:yellow;">Yeah.</span></P></Sync>
+<Sync Start="1753880"><P class="ENCC"><span style="color:cyan;">House?  </span><span style="color:yellow;">House, house.</span></P></Sync>
+<Sync Start="1755960"><P class="ENCC"><span style="color:#11FF11;">Erm...  </span><span style="color:white;">One minute gone.</span></P></Sync>
+<Sync Start="1757480"><P class="ENCC"><span style="color:yellow;">House bell.  </span><span style="color:white;">They may not need it.</span></P></Sync>
+<Sync Start="1759040"><P class="ENCC"><span style="color:cyan;">There's a bell on the top</span><br><span style="color:cyan;">but I don't think it's that.</span></P></Sync>
+<Sync Start="1761200"><P class="ENCC"><span style="color:#11FF11;">House boots?  </span><span style="color:cyan;">House...</span></P></Sync>
+<Sync Start="1762720"><P class="ENCC"><span style="color:yellow;">House pig.  </span><span style="color:#11FF11;">Brick, brick. House</span><br><span style="color:#11FF11;">brick.</span></P></Sync>
+<Sync Start="1764840"><P class="ENCC"><span style="color:yellow;">House brick!  </span><span style="color:cyan;">House brick.</span><br><span style="color:yellow;">Left, left.</span></P></Sync>
+<Sync Start="1766880"><P class="ENCC"><span style="color:yellow;">Is that a brick?  </span><span style="color:cyan;">No, it's dominoes.</span></P></Sync>
+<Sync Start="1768720"><P class="ENCC"><span style="color:yellow;">Oh.  </span><span style="color:#11FF11;">Oh, no.</span></P></Sync>
+<Sync Start="1770080"><P class="ENCC"><span style="color:cyan;">House...</span></P></Sync>
+<Sync Start="1771280"><P class="ENCC"><span style="color:#11FF11;">House rabbit?</span></P></Sync>
+<Sync Start="1773120"><P class="ENCC"><span style="color:cyan;">No, come on.  </span><span style="color:yellow;">House duck?</span></P></Sync>
+<Sync Start="1775120"><P class="ENCC"><span style="color:yellow;">House foot.  </span><span style="color:#11FF11;">House teddy.</span></P></Sync>
+<Sync Start="1777200"><P class="ENCC"><span style="color:yellow;">House abacus.  </span><span style="color:#11FF11;">House train.</span></P></Sync>
+<Sync Start="1778880"><P class="ENCC"><span style="color:cyan;">House boat. Houseboat!</span></P></Sync>
+<Sync Start="1780600"><P class="ENCC"><span style="color:#11FF11;">Yeah, houseboat.  </span><span style="color:yellow;">Houseboat.</span></P></Sync>
+<Sync Start="1781880"><P class="ENCC"><span style="color:yellow;">Boat.  </span><span style="color:white;">Houseboat. Does anything go</span><br><span style="color:white;">after boat?</span></P></Sync>
+<Sync Start="1784240"><P class="ENCC"><span style="color:yellow;">Boat... Boat hand.</span></P></Sync>
+<Sync Start="1786040"><P class="ENCC"><span style="color:white;">We're halfway through.</span></P></Sync>
+<Sync Start="1787480"><P class="ENCC"><span style="color:yellow;">Boat hand? No.</span></P></Sync>
+<Sync Start="1789120"><P class="ENCC"><span style="color:#11FF11;">Boat pig? No.  </span><span style="color:yellow;">Boat brush.</span></P></Sync>
+<Sync Start="1791440"><P class="ENCC"><span style="color:#11FF11;">Boat train.</span></P></Sync>
+<Sync Start="1794680"><P class="ENCC"><span style="color:yellow;">Boat domino. Boat bell.</span></P></Sync>
+<Sync Start="1796240"><P class="ENCC"><span style="color:white;">There may be red herrings in there.</span></P></Sync>
+<Sync Start="1798200"><P class="ENCC"><span style="color:cyan;">Boat duck.  </span><span style="color:white;">Now, I know</span><br><span style="color:white;">you have a boat...</span></P></Sync>
+<Sync Start="1800120"><P class="ENCC"><span style="color:#11FF11;">Boat bell.  </span><span style="color:white;">..but how, how sure are</span><br><span style="color:white;">you about houseboat?</span></P></Sync>
+<Sync Start="1804080"><P class="ENCC"><span style="color:yellow;">Boat, boat.  </span><span style="color:#11FF11;">Move the boat, move the</span><br><span style="color:#11FF11;">boat, boat's wrong.</span></P></Sync>
+<Sync Start="1806840"><P class="ENCC"><span style="color:yellow;">House bell.  </span><span style="color:#11FF11;">House bell.</span></P></Sync>
+<Sync Start="1807880"><P class="ENCC"><span style="color:yellow;">House bell.  </span><span style="color:cyan;">House bell?</span></P></Sync>
+<Sync Start="1809080"><P class="ENCC"><span style="color:yellow;">Bell. Down.</span></P></Sync>
+<Sync Start="1810840"><P class="ENCC"><span style="color:white;">Anything from the shelves,</span><br><span style="color:white;">you can take.</span></P></Sync>
+<Sync Start="1813040"><P class="ENCC"><span style="color:yellow;">Bell... Bell, top.  </span><span style="color:#11FF11;">Bell train?</span></P></Sync>
+<Sync Start="1815120"><P class="ENCC"><span style="color:yellow;">Top.  </span><span style="color:white;">One minute left.</span></P></Sync>
+<Sync Start="1816560"><P class="ENCC"><span style="color:yellow;">Top, bell top.  </span><span style="color:#11FF11;">House plant?</span><br><span style="color:yellow;">House bell.  </span><span style="color:#11FF11;">House plant.</span></P></Sync>
+<Sync Start="1819680"><P class="ENCC"><span style="color:#11FF11;">Have you got a house plant?</span></P></Sync>
+<Sync Start="1821760"><P class="ENCC"><span style="color:yellow;">It's a house plant. House plant!</span></P></Sync>
+<Sync Start="1823200"><P class="ENCC"><span style="color:#11FF11;">House plant.  </span><span style="color:yellow;">Gary, it's a plant!</span><br><span style="color:yellow;">Top left.</span></P></Sync>
+<Sync Start="1824920"><P class="ENCC"><span style="color:white;">I think they may have it. House</span><br><span style="color:white;">plant.  </span><span style="color:yellow;">House plant?</span></P></Sync>
+<Sync Start="1827640"><P class="ENCC"><span style="color:#11FF11;">And the plant.  </span><span style="color:white;">That's a big prop.</span></P></Sync>
+<Sync Start="1829360"><P class="ENCC"><span style="color:cyan;">Plant top, plant boat, plant pig.</span></P></Sync>
+<Sync Start="1831320"><P class="ENCC"><span style="color:white;">45 seconds.</span></P></Sync>
+<Sync Start="1832720"><P class="ENCC"><span style="color:cyan;">Plant bell.  </span><span style="color:#11FF11;">Is that a useful prop?</span></P></Sync>
+<Sync Start="1834560"><P class="ENCC"><span style="color:white;">That is a useful prop.</span></P></Sync>
+<Sync Start="1836400"><P class="ENCC"><span style="color:white;">They're very polite.</span><br><span style="color:cyan;">How long left?  </span><span style="color:yellow;">Plant...</span></P></Sync>
+<Sync Start="1839080"><P class="ENCC"><span style="color:white;">35 seconds.</span></P></Sync>
+<Sync Start="1840440"><P class="ENCC"><span style="color:yellow;">Plant boot, plant duck?</span></P></Sync>
+<Sync Start="1841800"><P class="ENCC"><span style="color:#11FF11;">There's a pot down there!</span></P></Sync>
+<Sync Start="1844240"><P class="ENCC"><span style="color:#11FF11;">Look, bottom right corner.</span><br><span style="color:yellow;">Bottom shelf.</span></P></Sync>
+<Sync Start="1846080"><P class="ENCC"><span style="color:cyan;">Got it, plant pot.</span></P></Sync>
+<Sync Start="1847720"><P class="ENCC"><span style="color:white;">Plant pot.  </span><span style="color:yellow;">Yes!  </span><span style="color:white;">These guys.</span></P></Sync>
+<Sync Start="1850080"><P class="ENCC"><span style="color:cyan;">Let me out!  </span><span style="color:white;">All right!</span></P></Sync>
+<Sync Start="1852880"><P class="ENCC"><span style="color:white;">Wow...</span></P></Sync>
+<Sync Start="1854080"><P class="ENCC"><span style="color:white;">CHEERING</span></P></Sync>
+<Sync Start="1857680"><P class="ENCC"><span style="color:white;">Please give that man space</span><br><span style="color:white;">to celebrate.</span></P></Sync>
+<Sync Start="1860120"><P class="ENCC"><span style="color:white;">Give him space to celebrate.</span></P></Sync>
+<Sync Start="1862840"><P class="ENCC"><span style="color:yellow;">Well done!  </span><span style="color:cyan;">Whoa!</span><br><span style="color:white;">Very good.  </span><span style="color:#11FF11;">Yes!</span></P></Sync>
+<Sync Start="1865200"><P class="ENCC"><span style="color:white;">ANGAZ SINGS</span></P></Sync>
+<Sync Start="1866720"><P class="ENCC"><span style="color:white;">Very... Thank you for tying that</span><br><span style="color:white;">into a ref.</span></P></Sync>
+<Sync Start="1870720"><P class="ENCC"></P></Sync>
+<Sync Start="1871440"><P class="ENCC"><span style="color:white;">Again, you've triumphed in a</span><br><span style="color:white;">mental game.</span></P></Sync>
+<Sync Start="1873680"><P class="ENCC"><span style="color:white;">I mean, you've got five crystals</span><br><span style="color:white;">now, 25 seconds in the dome.</span></P></Sync>
+<Sync Start="1877120"><P class="ENCC"><span style="color:yellow;">Yeah.  </span><span style="color:white;">Let's see if we can keep</span><br><span style="color:white;">this up.</span></P></Sync>
+<Sync Start="1878960"><P class="ENCC"><span style="color:white;">We have a skill game now.  </span><span style="color:yellow;">Skill.</span></P></Sync>
+<Sync Start="1881040"><P class="ENCC"><span style="color:white;">OK? Who are you going to pick?</span></P></Sync>
+<Sync Start="1882960"><P class="ENCC"><span style="color:yellow;">Erm, for the skill game, I'd like to</span><br><span style="color:yellow;">give it a go.</span></P></Sync>
+<Sync Start="1885520"><P class="ENCC"><span style="color:white;">Ash, leading from the front.</span></P></Sync>
+<Sync Start="1887360"><P class="ENCC"><span style="color:yellow;">Yes.  </span><span style="color:white;">I like to see that.</span></P></Sync>
+<Sync Start="1888640"><P class="ENCC"><span style="color:yellow;">Yep.  </span><span style="color:white;">OK. I'm going to move you back.</span></P></Sync>
+<Sync Start="1890280"><P class="ENCC"><span style="color:white;">I'm going through myself and then</span><br><span style="color:white;">follow the hand, follow the hand,</span></P></Sync>
+<Sync Start="1893000"><P class="ENCC"><span style="color:white;">follow the hand. Watch the</span><br><span style="color:white;">candelabra, or...</span></P></Sync>
+<Sync Start="1895480"><P class="ENCC"><span style="color:white;">It's not a candelabra, some kind of</span><br><span style="color:white;">weird circle of...</span></P></Sync>
+<Sync Start="1898040"><P class="ENCC"><span style="color:white;">I mean, it's dangerous, that's the</span><br><span style="color:white;">key thing.</span></P></Sync>
+<Sync Start="1900840"><P class="ENCC"><span style="color:white;">From when I close this door, you</span><br><span style="color:white;">have two mins, OK?</span></P></Sync>
+<Sync Start="1904720"><P class="ENCC"><span style="color:white;">We're doing well, here.</span><br><span style="color:white;">Let's keep it up.</span></P></Sync>
+<Sync Start="1907080"><P class="ENCC"><span style="color:white;">In you go.</span></P></Sync>
+<Sync Start="1909520"><P class="ENCC"><span style="color:cyan;">Go on.</span></P></Sync>
+<Sync Start="1911000"><P class="ENCC"><span style="color:yellow;">OK, it looks like I've got to build</span><br><span style="color:yellow;">something.</span></P></Sync>
+<Sync Start="1912880"><P class="ENCC"><span style="color:yellow;">Oh, I know what I've got to do.</span></P></Sync>
+<Sync Start="1914720"><P class="ENCC"><span style="color:cyan;">Go on, Ash.  </span><span style="color:#11FF11;">Is there any</span><br><span style="color:#11FF11;">instructions to read?</span></P></Sync>
+<Sync Start="1916880"><P class="ENCC"><span style="color:yellow;">Ah, instructions. No instructions to</span><br><span style="color:yellow;">read.  </span><span style="color:cyan;">No, just rotate it round.</span></P></Sync>
+<Sync Start="1919880"><P class="ENCC"><span style="color:#11FF11;">Chuck it in.  </span><span style="color:cyan;">Go on, Ash, chuck</span><br><span style="color:cyan;">it in.</span></P></Sync>
+<Sync Start="1922720"><P class="ENCC"><span style="color:#11FF11;">Chase it round.  </span><span style="color:cyan;">Yeah, get it</span><br><span style="color:cyan;">in there, rotate it.</span></P></Sync>
+<Sync Start="1925840"><P class="ENCC"><span style="color:white;">There may be some more building than</span><br><span style="color:white;">just that.</span></P></Sync>
+<Sync Start="1928200"><P class="ENCC"><span style="color:cyan;">OK, Ash.  </span><span style="color:white;">That's not going to work.</span></P></Sync>
+<Sync Start="1930120"><P class="ENCC"><span style="color:cyan;">Build the structure.</span></P></Sync>
+<Sync Start="1931360"><P class="ENCC"><span style="color:white;">If I were you, I would take it out.</span></P></Sync>
+<Sync Start="1933720"><P class="ENCC"><span style="color:cyan;">Take it out before you start.</span><br><span style="color:#11FF11;">The big one underneath.</span></P></Sync>
+<Sync Start="1936200"><P class="ENCC"><span style="color:cyan;">It slides in like that, yeah.</span></P></Sync>
+<Sync Start="1937800"><P class="ENCC"><span style="color:#11FF11;">Take it out and...  </span><span style="color:cyan;">No, no, it slides</span><br><span style="color:cyan;">in like that.</span></P></Sync>
+<Sync Start="1940000"><P class="ENCC"><span style="color:#11FF11;">Behind you. There.  </span><span style="color:cyan;">Like that.</span></P></Sync>
+<Sync Start="1941400"><P class="ENCC"><span style="color:#11FF11;">Ash, the one...  </span><span style="color:cyan;">Ash, behind you!</span></P></Sync>
+<Sync Start="1942840"><P class="ENCC"><span style="color:#11FF11;">The one behind you goes in first.</span></P></Sync>
+<Sync Start="1944360"><P class="ENCC"><span style="color:cyan;">That's it, go on, go on.</span></P></Sync>
+<Sync Start="1945920"><P class="ENCC"><span style="color:cyan;">Other way round. That's it.</span></P></Sync>
+<Sync Start="1947160"><P class="ENCC"><span style="color:cyan;">That's it, watch those. Turn it.</span></P></Sync>
+<Sync Start="1948600"><P class="ENCC"><span style="color:#11FF11;">It's like that, flip it, flip it.</span></P></Sync>
+<Sync Start="1950520"><P class="ENCC"><span style="color:cyan;">Turn it over, that's it. Like that.</span></P></Sync>
+<Sync Start="1952360"><P class="ENCC"><span style="color:#11FF11;">That's it.  </span><span style="color:white;">Take the handle out.</span></P></Sync>
+<Sync Start="1954000"><P class="ENCC"><span style="color:cyan;">Pull it out first, Ash, as well.</span></P></Sync>
+<Sync Start="1955440"><P class="ENCC"><span style="color:white;">We cannot afford to replace this</span><br><span style="color:white;">prop.</span></P></Sync>
+<Sync Start="1957120"><P class="ENCC"><span style="color:cyan;">Take the handle out. Right, take the</span><br><span style="color:cyan;">handle out now.</span></P></Sync>
+<Sync Start="1959240"><P class="ENCC"><span style="color:cyan;">You have to slide it in</span><br><span style="color:cyan;">last. Right, get the next one on.</span></P></Sync>
+<Sync Start="1961480"><P class="ENCC"><span style="color:#11FF11;">Now you've got the idea.</span></P></Sync>
+<Sync Start="1962680"><P class="ENCC"><span style="color:cyan;">Next one on.  </span><span style="color:white;">That's right.</span><br><span style="color:white;">It's a puzzle.</span></P></Sync>
+<Sync Start="1964800"><P class="ENCC"><span style="color:cyan;">No, the other way, the other way.</span></P></Sync>
+<Sync Start="1966280"><P class="ENCC"><span style="color:#11FF11;">The other way up. That's it.  </span><span style="color:cyan;">That</span><br><span style="color:cyan;">way, yeah.  </span><span style="color:#11FF11;">Go on.  </span><span style="color:cyan;">Come on, Ash.</span></P></Sync>
+<Sync Start="1968840"><P class="ENCC"><span style="color:#11FF11;">Like a pyramid. Slide it in, slide</span><br><span style="color:#11FF11;">it in.  </span><span style="color:cyan;">Further left, further left.</span></P></Sync>
+<Sync Start="1971640"><P class="ENCC"><span style="color:#11FF11;">Slide it in. Slide it in.</span><br><span style="color:white;">One minute left.</span></P></Sync>
+<Sync Start="1973560"><P class="ENCC"><span style="color:cyan;">OK, you've got loads of time.  </span><span style="color:white;">Well,</span><br><span style="color:white;">you've got less than a minute.</span></P></Sync>
+<Sync Start="1976280"><P class="ENCC"><span style="color:yellow;">It needs to go round the other way,</span><br><span style="color:yellow;">doesn't it?</span></P></Sync>
+<Sync Start="1978280"><P class="ENCC"><span style="color:cyan;">Does it?  </span><span style="color:yellow;">Yeah, it needs to go round</span><br><span style="color:yellow;">the other way.</span></P></Sync>
+<Sync Start="1980480"><P class="ENCC"><span style="color:cyan;">The other way, pull it</span><br><span style="color:cyan;">back out, slowly.</span></P></Sync>
+<Sync Start="1982240"><P class="ENCC"><span style="color:#11FF11;">Pull it back out.  </span><span style="color:cyan;">It's jammed. Pull</span><br><span style="color:cyan;">it back out.</span></P></Sync>
+<Sync Start="1986080"><P class="ENCC"><span style="color:cyan;">For goodness' sake. That's it.</span></P></Sync>
+<Sync Start="1987920"><P class="ENCC"><span style="color:cyan;">Get it back up.  </span><span style="color:#11FF11;">Spin it round!</span><br><span style="color:#11FF11;">That's it. You're back in.</span></P></Sync>
+<Sync Start="1990160"><P class="ENCC"><span style="color:#11FF11;">Right, go on.</span></P></Sync>
+<Sync Start="1992400"><P class="ENCC"><span style="color:#11FF11;">Push it.  </span><span style="color:cyan;">Quickly, that's it.</span></P></Sync>
+<Sync Start="1993760"><P class="ENCC"><span style="color:#11FF11;">Push it.</span></P></Sync>
+<Sync Start="1995280"><P class="ENCC"><span style="color:#11FF11;">That's it, go on.  </span><span style="color:cyan;">All the way,</span><br><span style="color:cyan;">that's it</span></P></Sync>
+<Sync Start="1996960"><P class="ENCC"><span style="color:cyan;">and now the last one.  </span><span style="color:#11FF11;">Last one.</span></P></Sync>
+<Sync Start="1998320"><P class="ENCC"><span style="color:white;">Yes...  </span><span style="color:#11FF11;">Last one.</span></P></Sync>
+<Sync Start="1999520"><P class="ENCC"><span style="color:white;">Oh, sorry, 30 seconds left.</span></P></Sync>
+<Sync Start="2002160"><P class="ENCC"><span style="color:white;">30 seconds.</span></P></Sync>
+<Sync Start="2003400"><P class="ENCC"><span style="color:cyan;">On the base first, that's it.</span><br><span style="color:cyan;">Go on.</span></P></Sync>
+<Sync Start="2005400"><P class="ENCC"><span style="color:white;">Everything slots in. Everything has</span><br><span style="color:white;">a place.</span></P></Sync>
+<Sync Start="2007480"><P class="ENCC"><span style="color:cyan;">That's it. Now, now, line it up.</span></P></Sync>
+<Sync Start="2009360"><P class="ENCC"><span style="color:white;">OK. 20 seconds.</span></P></Sync>
+<Sync Start="2011000"><P class="ENCC"><span style="color:#11FF11;">Fast as hell, fast as hell.</span></P></Sync>
+<Sync Start="2012320"><P class="ENCC"><span style="color:white;">Fast as hell - another AC/DC album</span><br><span style="color:white;">title in the making.</span></P></Sync>
+<Sync Start="2016320"><P class="ENCC"></P></Sync>
+<Sync Start="2016640"><P class="ENCC"><span style="color:cyan;">Can you turn it?</span></P></Sync>
+<Sync Start="2017960"><P class="ENCC"><span style="color:cyan;">Keep going, keep going, keep going.</span></P></Sync>
+<Sync Start="2020840"><P class="ENCC"><span style="color:white;">Ten...  </span><span style="color:#11FF11;">You're turning it the</span><br><span style="color:#11FF11;">wrong way!</span></P></Sync>
+<Sync Start="2022800"><P class="ENCC"><span style="color:#11FF11;">You're turning it the wrong way!</span><br><span style="color:white;">Nine, eight...  </span><span style="color:yellow;">Wrong way?  </span><span style="color:cyan;">That's it.</span></P></Sync>
+<Sync Start="2025640"><P class="ENCC"><span style="color:white;">Five, four...  </span><span style="color:#11FF11;">Keep going.</span></P></Sync>
+<Sync Start="2027800"><P class="ENCC"><span style="color:cyan;">Crystal, there, there!</span></P></Sync>
+<Sync Start="2029680"><P class="ENCC"><span style="color:cyan;">It's there!</span><br><span style="color:white;">HE GROANS</span></P></Sync>
+<Sync Start="2032920"><P class="ENCC"><span style="color:#11FF11;">Well done, Ash.  </span><span style="color:white;">Well, I've got to</span><br><span style="color:white;">say,</span></P></Sync>
+<Sync Start="2035880"><P class="ENCC"><span style="color:white;">that was as close as you can get to</span><br><span style="color:white;">a lock-in. That was down to the</span><br><span style="color:white;">seconds.</span></P></Sync>
+<Sync Start="2039520"><P class="ENCC"><span style="color:yellow;">I didn't think I could get it in</span><br><span style="color:yellow;">time. I just thought I'd best get</span><br><span style="color:yellow;">out of there.</span></P></Sync>
+<Sync Start="2042720"><P class="ENCC"><span style="color:white;">You're wise, because you would have</span><br><span style="color:white;">been locked in.</span></P></Sync>
+<Sync Start="2044920"><P class="ENCC"><span style="color:white;">It was very close.</span><br><span style="color:white;">That's frustrating.</span></P></Sync>
+<Sync Start="2046880"><P class="ENCC"><span style="color:white;">You've got 25 seconds in the dome,</span><br><span style="color:white;">five crystals,</span></P></Sync>
+<Sync Start="2049880"><P class="ENCC"><span style="color:white;">so that's not too bad.</span></P></Sync>
+<Sync Start="2051920"><P class="ENCC"><span style="color:white;">This zone is finished.</span><br><span style="color:white;">It's ended on a downer.</span></P></Sync>
+<Sync Start="2054040"><P class="ENCC"><span style="color:white;">We had two very good games, but now</span><br><span style="color:white;">I must invite you to leave via a</span></P></Sync>
+<Sync Start="2058040"><P class="ENCC"></P></Sync>
+<Sync Start="2058680"><P class="ENCC"><span style="color:white;">precarious balance beam.</span></P></Sync>
+<Sync Start="2060640"><P class="ENCC"><span style="color:yellow;">Come on!  </span><span style="color:cyan;">Come on!</span></P></Sync>
+<Sync Start="2062720"><P class="ENCC"><span style="color:white;">Follow the hand, follow the hand.</span><br><span style="color:white;">Fast and safe, fast and safe,</span></P></Sync>
+<Sync Start="2065720"><P class="ENCC"><span style="color:white;">let's get on.</span></P></Sync>
+<Sync Start="2068080"><P class="ENCC"><span style="color:white;">This would make a good album cover.</span></P></Sync>
+<Sync Start="2071640"><P class="ENCC"><span style="color:cyan;">It's a bit slippy when it's wet.</span></P></Sync>
+<Sync Start="2074240"><P class="ENCC"><span style="color:yellow;">That's Bon Jovi.</span></P></Sync>
+<Sync Start="2081000"><P class="ENCC"></P></Sync>
+
+<Sync Start="2081000"><P class="ENCC"></P></Sync>
+<Sync Start="2084000"><P class="ENCC"><span style="color:white;">Follow the hand, follow the hand.</span></P></Sync>
+<Sync Start="2086080"><P class="ENCC"><span style="color:white;">Here we go.</span></P></Sync>
+<Sync Start="2090080"><P class="ENCC"></P></Sync>
+<Sync Start="2094360"><P class="ENCC"><span style="color:white;">Welcome to the Futuristic Zone.</span><br><span style="color:yellow;">Thank you.</span></P></Sync>
+<Sync Start="2096560"><P class="ENCC"><span style="color:white;">It was Whitney Houston</span><br><span style="color:white;">who said that,</span></P></Sync>
+<Sync Start="2099960"><P class="ENCC"><span style="color:white;">&quot;Our children are the future.&quot;</span></P></Sync>
+<Sync Start="2101880"><P class="ENCC"><span style="color:white;">She also said,</span><br><span style="color:white;">&quot;No matter what they take from me,</span></P></Sync>
+<Sync Start="2104320"><P class="ENCC"><span style="color:white;">&quot;they cannot take away my dignity&quot;.</span></P></Sync>
+<Sync Start="2106080"><P class="ENCC"><span style="color:cyan;">Yep.  </span><span style="color:white;">I'd like this show to stand as</span><br><span style="color:white;">a counterargument to that.</span></P></Sync>
+<Sync Start="2110080"><P class="ENCC"></P></Sync>
+<Sync Start="2111920"><P class="ENCC"><span style="color:cyan;">I think it already has.</span><br><span style="color:white;">Exactly.</span></P></Sync>
+<Sync Start="2113800"><P class="ENCC"><span style="color:white;">You hear me, Kane.</span></P></Sync>
+<Sync Start="2115120"><P class="ENCC"><span style="color:white;">Now, we're here,</span></P></Sync>
+<Sync Start="2117160"><P class="ENCC"><span style="color:white;">the first game is a mental game.</span></P></Sync>
+<Sync Start="2120400"><P class="ENCC"><span style="color:white;">You've got five crystals,</span><br><span style="color:white;">25 seconds in the dome.</span></P></Sync>
+<Sync Start="2123520"><P class="ENCC"><span style="color:white;">Barring lock-ins, you could take</span><br><span style="color:white;">that to 35 seconds,</span></P></Sync>
+<Sync Start="2126200"><P class="ENCC"><span style="color:white;">and that's a good total.</span><br><span style="color:cyan;">Yeah.  </span><span style="color:yellow;">Right.</span></P></Sync>
+<Sync Start="2128040"><P class="ENCC"><span style="color:white;">Who's playing this mental game?</span><br><span style="color:white;">This guy's got form...</span></P></Sync>
+<Sync Start="2130400"><P class="ENCC"><span style="color:cyan;">I have.  </span><span style="color:white;">..but he's played two.</span></P></Sync>
+<Sync Start="2131800"><P class="ENCC"><span style="color:white;">What are you going to do?  </span><span style="color:cyan;">We're</span><br><span style="color:cyan;">going to go with Mike for this one.</span></P></Sync>
+<Sync Start="2134360"><P class="ENCC"><span style="color:white;">Blue Mike, come with.</span></P></Sync>
+<Sync Start="2135680"><P class="ENCC"><span style="color:yellow;">Yep, OK.  </span><span style="color:white;">OK. Are you all right</span><br><span style="color:white;">on that turntable, Ash?</span></P></Sync>
+<Sync Start="2138440"><P class="ENCC"><span style="color:cyan;">Yep, just about.</span><br><span style="color:white;">Wow. I'll keep going.</span></P></Sync>
+<Sync Start="2141240"><P class="ENCC"><span style="color:yellow;">You all right?  </span><span style="color:white;">That's fine. Almost</span><br><span style="color:white;">got blown out into space, there.</span></P></Sync>
+<Sync Start="2144200"><P class="ENCC"><span style="color:white;">OK.</span></P></Sync>
+<Sync Start="2145240"><P class="ENCC"><span style="color:white;">You've got three mins...</span></P></Sync>
+<Sync Start="2146880"><P class="ENCC"><span style="color:yellow;">OK.  </span><span style="color:white;">..from when this door closes.</span></P></Sync>
+<Sync Start="2148880"><P class="ENCC"><span style="color:white;">In you go.  </span><span style="color:yellow;">I'm ready.</span></P></Sync>
+<Sync Start="2151680"><P class="ENCC"><span style="color:cyan;">Come on!  </span><span style="color:#11FF11;">Come on, Mike!</span></P></Sync>
+<Sync Start="2154160"><P class="ENCC"><span style="color:yellow;">OK, it's instructions.</span></P></Sync>
+<Sync Start="2155640"><P class="ENCC"><span style="color:yellow;">&quot;Place the blocks in the grid</span><br><span style="color:yellow;">so that both sides</span></P></Sync>
+<Sync Start="2158520"><P class="ENCC"><span style="color:yellow;">&quot;follow the rules.&quot;</span><br><span style="color:yellow;">I've got the rules here.</span></P></Sync>
+<Sync Start="2161160"><P class="ENCC"><span style="color:yellow;">&quot;There should be two blue blocks</span><br><span style="color:yellow;">in the right-hand column.&quot;</span></P></Sync>
+<Sync Start="2165120"><P class="ENCC"><span style="color:cyan;">Go on, Mike!  </span><span style="color:#11FF11;">Good luck, Mike!</span></P></Sync>
+<Sync Start="2166800"><P class="ENCC"><span style="color:#11FF11;">Come on!  </span><span style="color:cyan;">Good luck!  </span><span style="color:#11FF11;">Go on!</span></P></Sync>
+<Sync Start="2169560"><P class="ENCC"><span style="color:cyan;">Yeah.  </span><span style="color:#11FF11;">OK.</span></P></Sync>
+<Sync Start="2173560"><P class="ENCC"></P></Sync>
+<Sync Start="2174120"><P class="ENCC"><span style="color:yellow;">One...  </span><span style="color:cyan;">The blue one!</span></P></Sync>
+<Sync Start="2176400"><P class="ENCC"><span style="color:yellow;">..two...</span></P></Sync>
+<Sync Start="2180400"><P class="ENCC"></P></Sync>
+<Sync Start="2181280"><P class="ENCC"><span style="color:cyan;">Just get 'em in.</span></P></Sync>
+<Sync Start="2182880"><P class="ENCC"><span style="color:yellow;">Two blue blocks in</span><br><span style="color:yellow;">the right-hand column.  </span><span style="color:cyan;">Yeah.</span></P></Sync>
+<Sync Start="2185800"><P class="ENCC"><span style="color:yellow;">&quot;The centre block must be purple.&quot;</span></P></Sync>
+<Sync Start="2188160"><P class="ENCC"><span style="color:cyan;">Yeah.  </span><span style="color:yellow;">Put the centre block in, yeah.</span><br><span style="color:cyan;">Purple in the centre.  </span><span style="color:#11FF11;">Centre block.</span></P></Sync>
+<Sync Start="2191080"><P class="ENCC"><span style="color:yellow;">Centre block...</span><br><span style="color:cyan;">Remember the last line on the rules.</span></P></Sync>
+<Sync Start="2195080"><P class="ENCC"></P></Sync>
+<Sync Start="2195520"><P class="ENCC"><span style="color:cyan;">Purple.</span><br><span style="color:white;">Yeah, remember all the rules.</span></P></Sync>
+<Sync Start="2197720"><P class="ENCC"><span style="color:yellow;">OK, er, &quot;No green blocks may be</span><br><span style="color:yellow;">adjacent to any blue blocks.&quot;</span></P></Sync>
+<Sync Start="2201720"><P class="ENCC"></P></Sync>
+<Sync Start="2202160"><P class="ENCC"><span style="color:yellow;">No green next to any blue.</span></P></Sync>
+<Sync Start="2205080"><P class="ENCC"><span style="color:#11FF11;">Yep.  </span><span style="color:yellow;">OK.</span></P></Sync>
+<Sync Start="2206560"><P class="ENCC"><span style="color:yellow;">So, I could have a</span><br><span style="color:yellow;">red next to a blue.</span></P></Sync>
+<Sync Start="2208040"><P class="ENCC"><span style="color:cyan;">Just fill all the rest in.</span></P></Sync>
+<Sync Start="2209200"><P class="ENCC"><span style="color:#11FF11;">Fill them all in and then you can</span><br><span style="color:#11FF11;">rearrange.</span></P></Sync>
+<Sync Start="2211160"><P class="ENCC"><span style="color:cyan;">Yeah, fill them all in.</span><br><span style="color:white;">One minute gone.</span></P></Sync>
+<Sync Start="2212960"><P class="ENCC"><span style="color:cyan;">One minute gone.  </span><span style="color:#11FF11;">Two minutes left.</span><br><span style="color:cyan;">Keep going, faster.  </span><span style="color:white;">That's right.</span></P></Sync>
+<Sync Start="2215800"><P class="ENCC"><span style="color:cyan;">No green next to a blue.</span></P></Sync>
+<Sync Start="2217320"><P class="ENCC"><span style="color:cyan;">Faster!  </span><span style="color:white;">Faster is a good note.</span></P></Sync>
+<Sync Start="2220160"><P class="ENCC"><span style="color:cyan;">Just get 'em in.</span></P></Sync>
+<Sync Start="2224160"><P class="ENCC"></P></Sync>
+<Sync Start="2226120"><P class="ENCC"><span style="color:yellow;">Oh.  </span><span style="color:cyan;">Ah, there's two sides.</span></P></Sync>
+<Sync Start="2228480"><P class="ENCC"><span style="color:cyan;">There's two sides.</span><br><span style="color:cyan;">There's another side.</span></P></Sync>
+<Sync Start="2231360"><P class="ENCC"><span style="color:white;">There's another side.</span></P></Sync>
+<Sync Start="2233160"><P class="ENCC"><span style="color:white;">There are two sides to the story.</span><br><span style="color:cyan;">Go round the other side!</span></P></Sync>
+<Sync Start="2236120"><P class="ENCC"><span style="color:#11FF11;">Move the one...</span><br><span style="color:cyan;">Move the one the other side.</span></P></Sync>
+<Sync Start="2238320"><P class="ENCC"><span style="color:cyan;">The, er, the blue block in the</span><br><span style="color:cyan;">centre top is the wrong way.</span></P></Sync>
+<Sync Start="2242280"><P class="ENCC"><span style="color:white;">Both sides.</span></P></Sync>
+<Sync Start="2244040"><P class="ENCC"><span style="color:white;">Little tip there.</span></P></Sync>
+<Sync Start="2245120"><P class="ENCC"><span style="color:yellow;">Which one do you want me to move?</span></P></Sync>
+<Sync Start="2246840"><P class="ENCC"><span style="color:cyan;">Centre top.</span></P></Sync>
+<Sync Start="2248360"><P class="ENCC"><span style="color:yellow;">Centre top.</span></P></Sync>
+<Sync Start="2250720"><P class="ENCC"><span style="color:yellow;">Yeah?  </span><span style="color:cyan;">You've got green and blue</span><br><span style="color:cyan;">together, change it round.</span></P></Sync>
+<Sync Start="2254720"><P class="ENCC"></P></Sync>
+<Sync Start="2255200"><P class="ENCC"><span style="color:white;">Blue and green must never be seen,</span><br><span style="color:white;">except with a colour in between.</span></P></Sync>
+<Sync Start="2258520"><P class="ENCC"><span style="color:yellow;">It's got loads of green on this one.</span></P></Sync>
+<Sync Start="2262360"><P class="ENCC"><span style="color:white;">Remember, the rules apply</span><br><span style="color:white;">to both sides.</span></P></Sync>
+<Sync Start="2264720"><P class="ENCC"><span style="color:#11FF11;">Come on!  </span><span style="color:cyan;">Just get them in,</span><br><span style="color:cyan;">get them in, get them in!</span></P></Sync>
+<Sync Start="2268280"><P class="ENCC"><span style="color:cyan;">You can't have a green</span><br><span style="color:cyan;">next to a blue, Mike.</span></P></Sync>
+<Sync Start="2270200"><P class="ENCC"><span style="color:white;">You've got one minute left.</span></P></Sync>
+<Sync Start="2271480"><P class="ENCC"><span style="color:cyan;">The bottom one's no good.</span><br><span style="color:#11FF11;">One minute left.</span></P></Sync>
+<Sync Start="2273520"><P class="ENCC"><span style="color:cyan;">Right, now shuffle them round.</span></P></Sync>
+<Sync Start="2275920"><P class="ENCC"><span style="color:white;">OK.  </span><span style="color:cyan;">Right, that bottom left one's</span><br><span style="color:cyan;">no good.</span></P></Sync>
+<Sync Start="2277960"><P class="ENCC"><span style="color:#11FF11;">The bottom left on the other side's</span><br><span style="color:#11FF11;">green.  </span><span style="color:white;">You'll have to get a move on.</span></P></Sync>
+<Sync Start="2280760"><P class="ENCC"><span style="color:cyan;">Bottom right.</span></P></Sync>
+<Sync Start="2281800"><P class="ENCC"><span style="color:cyan;">No, the bottom right, bottom right!</span><br><span style="color:white;">50 seconds.</span></P></Sync>
+<Sync Start="2283840"><P class="ENCC"><span style="color:cyan;">Yeah, that one, that one!</span><br><span style="color:#11FF11;">That collage like that.</span></P></Sync>
+<Sync Start="2285880"><P class="ENCC"><span style="color:yellow;">What do you want to change to?</span><br><span style="color:cyan;">It can't be green next to blue.</span></P></Sync>
+<Sync Start="2288320"><P class="ENCC"><span style="color:#11FF11;">Anything! Anything.</span></P></Sync>
+<Sync Start="2291880"><P class="ENCC"><span style="color:white;">Oh, that's a sticky IKEA cabinet.</span></P></Sync>
+<Sync Start="2295160"><P class="ENCC"><span style="color:cyan;">Keep going!</span></P></Sync>
+<Sync Start="2296920"><P class="ENCC"><span style="color:yellow;">How's that?  </span><span style="color:cyan;">That's it!</span></P></Sync>
+<Sync Start="2299560"><P class="ENCC"><span style="color:cyan;">Look for the crystal.</span><br><span style="color:#11FF11;">Look for the crystal.</span></P></Sync>
+<Sync Start="2301760"><P class="ENCC"><span style="color:white;">30 seconds left.</span><br><span style="color:yellow;">I can't see it.</span></P></Sync>
+<Sync Start="2303760"><P class="ENCC"><span style="color:yellow;">Is that it?</span><br><span style="color:white;">I don't think that's quite right.</span></P></Sync>
+<Sync Start="2305640"><P class="ENCC"><span style="color:#11FF11;">No, there's green next to a blue.</span><br><span style="color:white;">Look at the rules.</span></P></Sync>
+<Sync Start="2308040"><P class="ENCC"><span style="color:#11FF11;">Green next to a blue.</span><br><span style="color:cyan;">Move the blue at the bottom.</span></P></Sync>
+<Sync Start="2309960"><P class="ENCC"><span style="color:cyan;">Bottom left.  </span><span style="color:#11FF11;">Bottom left.</span></P></Sync>
+<Sync Start="2311680"><P class="ENCC"><span style="color:cyan;">Bottom left.  </span><span style="color:white;">20 seconds left.</span></P></Sync>
+<Sync Start="2312960"><P class="ENCC"><span style="color:#11FF11;">Bottom left, move that somewhere</span><br><span style="color:#11FF11;">else.  </span><span style="color:cyan;">But it's not adjacent.</span></P></Sync>
+<Sync Start="2315600"><P class="ENCC"><span style="color:#11FF11;">How long left?  </span><span style="color:white;">Oy...</span></P></Sync>
+<Sync Start="2317680"><P class="ENCC"><span style="color:white;">..15 seconds.  </span><span style="color:cyan;">Keep going!</span></P></Sync>
+<Sync Start="2321000"><P class="ENCC"><span style="color:white;">I'm counting out now.</span></P></Sync>
+<Sync Start="2322480"><P class="ENCC"><span style="color:white;">Ten...  </span><span style="color:cyan;">Come out, come out!  </span><span style="color:white;">..nine...</span></P></Sync>
+<Sync Start="2324200"><P class="ENCC"><span style="color:cyan;">Come out, come out!  </span><span style="color:white;">Eight, seven...</span></P></Sync>
+<Sync Start="2326080"><P class="ENCC"><span style="color:yellow;">Right, coming out.  </span><span style="color:white;">Six...</span></P></Sync>
+<Sync Start="2327640"><P class="ENCC"><span style="color:white;">Oh.</span></P></Sync>
+<Sync Start="2329000"><P class="ENCC"><span style="color:white;">Blue Mike.  </span><span style="color:yellow;">I was getting two sides</span><br><span style="color:yellow;">at the same time.</span></P></Sync>
+<Sync Start="2331400"><P class="ENCC"><span style="color:white;">Two sides at the same time.</span></P></Sync>
+<Sync Start="2332720"><P class="ENCC"><span style="color:cyan;">Unlucky. Don't worry, Mike.</span><br><span style="color:white;">Rejoin your team-mates.</span></P></Sync>
+<Sync Start="2335080"><P class="ENCC"><span style="color:cyan;">You didn't get locked in.</span><br><span style="color:white;">You were close.</span></P></Sync>
+<Sync Start="2337360"><P class="ENCC"><span style="color:yellow;">Was that logical from where you</span><br><span style="color:yellow;">were?  </span><span style="color:cyan;">It was difficult.</span></P></Sync>
+<Sync Start="2339880"><P class="ENCC"><span style="color:#11FF11;">It was hard, like.</span><br><span style="color:cyan;">Yeah.  </span><span style="color:white;">It was hard, like.</span></P></Sync>
+<Sync Start="2341800"><P class="ENCC"><span style="color:cyan;">It's hard, don't worry about it.</span></P></Sync>
+<Sync Start="2343320"><P class="ENCC"><span style="color:white;">Here's one of the ways</span><br><span style="color:white;">it could have been done.</span></P></Sync>
+<Sync Start="2345320"><P class="ENCC"><span style="color:white;">As you can see, there's two blue</span><br><span style="color:white;">blocks in the right-hand column,</span></P></Sync>
+<Sync Start="2348040"><P class="ENCC"><span style="color:white;">purple in the centre, and no greens</span><br><span style="color:white;">are adjacent to any blues.</span></P></Sync>
+<Sync Start="2352040"><P class="ENCC"></P></Sync>
+<Sync Start="2352360"><P class="ENCC"><span style="color:white;">And it's the same on the other side.</span></P></Sync>
+<Sync Start="2356040"><P class="ENCC"><span style="color:white;">Let's move past that</span><br><span style="color:white;">to the final game.</span></P></Sync>
+<Sync Start="2358080"><P class="ENCC"><span style="color:#11FF11;">Let's give it our all.</span><br><span style="color:white;">It's a mystery game.</span></P></Sync>
+<Sync Start="2360120"><P class="ENCC"><span style="color:white;">Again, Yelliot.</span></P></Sync>
+<Sync Start="2361240"><P class="ENCC"><span style="color:#11FF11;">Give it our all.</span><br><span style="color:white;">He...you cannot break this guy.</span></P></Sync>
+<Sync Start="2363440"><P class="ENCC"><span style="color:yellow;">No.  </span><span style="color:#11FF11;">Yeah.  </span><span style="color:cyan;">Stay positive.</span></P></Sync>
+<Sync Start="2364720"><P class="ENCC"><span style="color:#11FF11;">Right.  </span><span style="color:cyan;">Come on!  </span><span style="color:white;">Do stay positive.</span><br><span style="color:cyan;">Well, it's between you two,</span></P></Sync>
+<Sync Start="2367160"><P class="ENCC"><span style="color:cyan;">but I think you should do one more.</span><br><span style="color:yellow;">OK.</span></P></Sync>
+<Sync Start="2369320"><P class="ENCC"><span style="color:white;">Purple Kane, man of mystery,</span><br><span style="color:white;">come with!</span></P></Sync>
+<Sync Start="2372200"><P class="ENCC"><span style="color:cyan;">Go on, Kane!  </span><span style="color:#11FF11;">Go on, Kane!</span></P></Sync>
+<Sync Start="2373560"><P class="ENCC"><span style="color:white;">OK, I'm going to pivot you round.</span><br><span style="color:#11FF11;">You can do it!  </span><span style="color:white;">OK, there you go.</span></P></Sync>
+<Sync Start="2376400"><P class="ENCC"><span style="color:cyan;">Come on!  </span><span style="color:white;">Now, you may watch,</span><br><span style="color:white;">but you may not assist.</span></P></Sync>
+<Sync Start="2380160"><P class="ENCC"><span style="color:white;">You're on your own, Kane.</span><br><span style="color:yellow;">Ah, right.  </span><span style="color:white;">You're on your own.</span></P></Sync>
+<Sync Start="2382720"><P class="ENCC"><span style="color:white;">You've got two mins</span><br><span style="color:white;">from when this door closes.</span></P></Sync>
+<Sync Start="2384960"><P class="ENCC"><span style="color:white;">I have to give you these glasses.</span></P></Sync>
+<Sync Start="2387440"><P class="ENCC"><span style="color:white;">OK?</span></P></Sync>
+<Sync Start="2389480"><P class="ENCC"><span style="color:white;">P-put them on.</span></P></Sync>
+<Sync Start="2392560"><P class="ENCC"><span style="color:white;">You look great. Like ZZ Top.</span></P></Sync>
+<Sync Start="2394120"><P class="ENCC"><span style="color:white;">Very good.  </span><span style="color:yellow;">Except without the beard.</span></P></Sync>
+<Sync Start="2396160"><P class="ENCC"><span style="color:white;">You've got...you've got the</span><br><span style="color:white;">startings.  </span><span style="color:yellow;">Yeah, a little bit.</span></P></Sync>
+<Sync Start="2398760"><P class="ENCC"><span style="color:white;">Give it three years,</span><br><span style="color:white;">you'll be there.</span></P></Sync>
+<Sync Start="2400440"><P class="ENCC"><span style="color:white;">In you go.</span></P></Sync>
+<Sync Start="2401840"><P class="ENCC"><span style="color:white;">Oh, before we go in...</span></P></Sync>
+<Sync Start="2403520"><P class="ENCC"><span style="color:white;">..let's close it.</span></P></Sync>
+<Sync Start="2406000"><P class="ENCC"><span style="color:white;">It's very responsive.</span></P></Sync>
+<Sync Start="2407600"><P class="ENCC"><span style="color:white;">Before we go in,</span></P></Sync>
+<Sync Start="2408720"><P class="ENCC"><span style="color:white;">this is an automatic lock-in</span><br><span style="color:white;">situation, or ALIS.</span></P></Sync>
+<Sync Start="2412360"><P class="ENCC"><span style="color:yellow;">Right.</span></P></Sync>
+<Sync Start="2413400"><P class="ENCC"><span style="color:white;">OK? You've got three lives, it'll</span><br><span style="color:white;">become apparent when you go in.</span></P></Sync>
+<Sync Start="2416200"><P class="ENCC"><span style="color:white;">Pretend you didn't see that.  </span><span style="color:yellow;">I will.</span></P></Sync>
+<Sync Start="2417800"><P class="ENCC"><span style="color:white;">In you go.</span></P></Sync>
+<Sync Start="2420920"><P class="ENCC"><span style="color:white;">And close.</span></P></Sync>
+<Sync Start="2424920"><P class="ENCC"></P></Sync>
+<Sync Start="2425600"><P class="ENCC"><span style="color:yellow;">Oh, my God.</span></P></Sync>
+<Sync Start="2429600"><P class="ENCC"></P></Sync>
+<Sync Start="2429760"><P class="ENCC"><span style="color:white;">Do you know what you're doing, Kane?</span></P></Sync>
+<Sync Start="2431560"><P class="ENCC"><span style="color:white;">BUZZER</span></P></Sync>
+<Sync Start="2434480"><P class="ENCC"><span style="color:white;">That's a life lost.</span></P></Sync>
+<Sync Start="2437040"><P class="ENCC"><span style="color:white;">You just broke a laser beam.</span></P></Sync>
+<Sync Start="2438840"><P class="ENCC"><span style="color:white;">Do you know what you're doing, Kane?</span><br><span style="color:white;">Read the sign.</span></P></Sync>
+<Sync Start="2442840"><P class="ENCC"></P></Sync>
+<Sync Start="2450840"><P class="ENCC"><span style="color:white;">Is Kane reading the sign?</span></P></Sync>
+<Sync Start="2452000"><P class="ENCC"><span style="color:cyan;">He's got the idea.</span></P></Sync>
+<Sync Start="2453320"><P class="ENCC"><span style="color:white;">30 seconds gone.</span></P></Sync>
+<Sync Start="2455720"><P class="ENCC"><span style="color:white;">OK.</span><br><span style="color:white;">BUZZER</span></P></Sync>
+<Sync Start="2457440"><P class="ENCC"><span style="color:white;">Oh!</span></P></Sync>
+<Sync Start="2458760"><P class="ENCC"><span style="color:white;">Two lives gone.</span></P></Sync>
+<Sync Start="2461000"><P class="ENCC"><span style="color:white;">One more and that's ALIS.</span></P></Sync>
+<Sync Start="2463520"><P class="ENCC"><span style="color:white;">Automatic lock-in situation.</span></P></Sync>
+<Sync Start="2466880"><P class="ENCC"><span style="color:white;">I don't know if ALIS</span><br><span style="color:white;">is going to catch on.</span></P></Sync>
+<Sync Start="2470720"><P class="ENCC"><span style="color:cyan;">Come on, Kane.  </span><span style="color:#11FF11;">Come on, Kane.</span></P></Sync>
+<Sync Start="2472240"><P class="ENCC"><span style="color:white;">He knows that the</span><br><span style="color:white;">lasers are on the timers.</span></P></Sync>
+<Sync Start="2474800"><P class="ENCC"><span style="color:white;">He's got to the hand scanner.</span></P></Sync>
+<Sync Start="2477440"><P class="ENCC"><span style="color:#11FF11;">Lasers deactivated.</span></P></Sync>
+<Sync Start="2479960"><P class="ENCC"><span style="color:white;">The lasers are deactivated.</span></P></Sync>
+<Sync Start="2482480"><P class="ENCC"><span style="color:white;">All he has to do now is find his way</span><br><span style="color:white;">out and grab a crystal.</span></P></Sync>
+<Sync Start="2486480"><P class="ENCC"></P></Sync>
+<Sync Start="2491600"><P class="ENCC"><span style="color:yellow;">Ah, I've lost it.</span></P></Sync>
+<Sync Start="2493800"><P class="ENCC"><span style="color:cyan;">Go on.</span></P></Sync>
+<Sync Start="2496120"><P class="ENCC"><span style="color:white;">Out he comes! Kane, crystal!</span></P></Sync>
+<Sync Start="2498000"><P class="ENCC"><span style="color:white;">THEY CHEER</span><br><span style="color:white;">Brilliant. Celebrate with your team.</span></P></Sync>
+<Sync Start="2500200"><P class="ENCC"><span style="color:white;">Very good.</span></P></Sync>
+<Sync Start="2501440"><P class="ENCC"><span style="color:cyan;">Go on, son!</span><br><span style="color:white;">This guy, this guy, Kane.</span></P></Sync>
+<Sync Start="2504040"><P class="ENCC"><span style="color:cyan;">Get in there!  </span><span style="color:#11FF11;">Come on!  </span><span style="color:white;">Oh!</span><br><span style="color:cyan;">Good lad!  </span><span style="color:yellow;">Yes!</span></P></Sync>
+<Sync Start="2506240"><P class="ENCC"><span style="color:cyan;">Yes!  </span><span style="color:#11FF11;">Woo!</span></P></Sync>
+<Sync Start="2508120"><P class="ENCC"><span style="color:#11FF11;">I was nervous for you.  </span><span style="color:white;">Well done.</span></P></Sync>
+<Sync Start="2509880"><P class="ENCC"><span style="color:white;">Very close. Very close.</span></P></Sync>
+<Sync Start="2512000"><P class="ENCC"><span style="color:white;">You were one away from a lock-in.</span></P></Sync>
+<Sync Start="2513680"><P class="ENCC"><span style="color:yellow;">I know, I know.  </span><span style="color:white;">Very good.</span></P></Sync>
+<Sync Start="2515440"><P class="ENCC"><span style="color:yellow;">At first, I didn't even know</span><br><span style="color:yellow;">what to do</span></P></Sync>
+<Sync Start="2517080"><P class="ENCC"><span style="color:yellow;">and I just blindly walked straight</span><br><span style="color:yellow;">into the lasers...</span></P></Sync>
+<Sync Start="2519840"><P class="ENCC"><span style="color:white;">Yes, we heard that.</span><br><span style="color:yellow;">Kind of figured it out after that.</span></P></Sync>
+<Sync Start="2522240"><P class="ENCC"><span style="color:white;">You were very good.</span><br><span style="color:white;">I mean, stealthy.</span></P></Sync>
+<Sync Start="2524480"><P class="ENCC"><span style="color:#11FF11;">Yeah.  </span><span style="color:cyan;">Stealthy, yeah.</span><br><span style="color:white;">We've ended on a high.</span></P></Sync>
+<Sync Start="2526920"><P class="ENCC"><span style="color:cyan;">We have.  </span><span style="color:white;">We've got 30 seconds in</span><br><span style="color:white;">the dome, six crystals,</span></P></Sync>
+<Sync Start="2530360"><P class="ENCC"><span style="color:white;">we've played very well.</span></P></Sync>
+<Sync Start="2531760"><P class="ENCC"><span style="color:white;">The only thing that remains for me</span><br><span style="color:white;">to say is...</span></P></Sync>
+<Sync Start="2534080"><P class="ENCC"><span style="color:white;">..to the dome!  </span><span style="color:cyan;">Yes!  </span><span style="color:#11FF11;">Yeah!</span></P></Sync>
+<Sync Start="2536320"><P class="ENCC"><span style="color:white;">Follow the hand, follow the hand,</span><br><span style="color:white;">follow the hand.</span></P></Sync>
+<Sync Start="2540320"><P class="ENCC"></P></Sync>
+<Sync Start="2545960"><P class="ENCC"><span style="color:white;">Congratulations for</span><br><span style="color:white;">making it this far.</span></P></Sync>
+<Sync Start="2549040"><P class="ENCC"><span style="color:cyan;">Yes.  </span><span style="color:white;">You've done very well.</span><br><span style="color:white;">How do you feel?  </span><span style="color:cyan;">Yes!</span></P></Sync>
+<Sync Start="2551600"><P class="ENCC"><span style="color:yellow;">Really, really good. I'm very proud</span><br><span style="color:yellow;">of everybody. I think we've done a</span><br><span style="color:yellow;">great job. Well done, B</span><span style="color:yellow;">lack Ice!</span></P></Sync>
+<Sync Start="2555600"><P class="ENCC"></P></Sync>
+<Sync Start="2555840"><P class="ENCC"><span style="color:cyan;">Well done. Excellent.</span><br><span style="color:white;">Black Ice has performed</span></P></Sync>
+<Sync Start="2557920"><P class="ENCC"><span style="color:white;">and we're now kind of on black ice.</span></P></Sync>
+<Sync Start="2559560"><P class="ENCC"><span style="color:white;">The circle is complete.</span></P></Sync>
+<Sync Start="2561600"><P class="ENCC"><span style="color:white;">It's been a tremendous Maze,</span><br><span style="color:white;">you've played it very well.</span></P></Sync>
+<Sync Start="2563840"><P class="ENCC"><span style="color:yellow;">Thank you. It's been a pleasure.</span></P></Sync>
+<Sync Start="2565320"><P class="ENCC"><span style="color:white;">Now, this is a very important</span><br><span style="color:white;">part of it.</span></P></Sync>
+<Sync Start="2567760"><P class="ENCC"><span style="color:white;">You know what's going down now.</span></P></Sync>
+<Sync Start="2569960"><P class="ENCC"><span style="color:white;">This is about</span><br><span style="color:white;">collecting gold tokens.</span></P></Sync>
+<Sync Start="2572320"><P class="ENCC"><span style="color:white;">We need to collect as many</span><br><span style="color:white;">as we can in there.</span></P></Sync>
+<Sync Start="2574600"><P class="ENCC"><span style="color:white;">We will count them up.</span></P></Sync>
+<Sync Start="2576240"><P class="ENCC"><span style="color:white;">Any silver tokens you collect</span><br><span style="color:white;">will be deducted from your total.</span></P></Sync>
+<Sync Start="2580240"><P class="ENCC"></P></Sync>
+<Sync Start="2580360"><P class="ENCC"><span style="color:cyan;">Right.  </span><span style="color:white;">OK?</span></P></Sync>
+<Sync Start="2581640"><P class="ENCC"><span style="color:white;">Between 0 and 50,</span><br><span style="color:white;">nothing, there's no prize,</span></P></Sync>
+<Sync Start="2584560"><P class="ENCC"><span style="color:white;">except for this</span><br><span style="color:white;">commemorative crystal.</span></P></Sync>
+<Sync Start="2588560"><P class="ENCC"></P></Sync>
+<Sync Start="2588960"><P class="ENCC"><span style="color:cyan;">Nice.  </span><span style="color:white;">It's very sparkly.</span></P></Sync>
+<Sync Start="2591080"><P class="ENCC"><span style="color:white;">And also very inexpensive</span><br><span style="color:white;">to produce.</span></P></Sync>
+<Sync Start="2594480"><P class="ENCC"><span style="color:white;">OK. Between 50 and 100,</span><br><span style="color:white;">a middling prize.</span></P></Sync>
+<Sync Start="2598480"><P class="ENCC"></P></Sync>
+<Sync Start="2598960"><P class="ENCC"><span style="color:white;">I'm not going to pretend that prize</span><br><span style="color:white;">is good, it is not a good prize.</span></P></Sync>
+<Sync Start="2602960"><P class="ENCC"></P></Sync>
+<Sync Start="2603000"><P class="ENCC"><span style="color:white;">Over 100...</span></P></Sync>
+<Sync Start="2604880"><P class="ENCC"><span style="color:white;">..it's a weak prize still, but it is</span><br><span style="color:white;">better than the middling prize.</span></P></Sync>
+<Sync Start="2608560"><P class="ENCC"><span style="color:white;">I mean, I'm embarrassed to even say</span><br><span style="color:white;">that prize out loud sometimes.</span></P></Sync>
+<Sync Start="2612280"><P class="ENCC"><span style="color:white;">I mean, it's...it's poor.</span></P></Sync>
+<Sync Start="2614040"><P class="ENCC"><span style="color:white;">OK, let's count up your crystals.</span></P></Sync>
+<Sync Start="2618040"><P class="ENCC"></P></Sync>
+<Sync Start="2618600"><P class="ENCC"><span style="color:white;">Six crystals.</span></P></Sync>
+<Sync Start="2620240"><P class="ENCC"><span style="color:white;">That means 30 seconds.</span></P></Sync>
+<Sync Start="2621720"><P class="ENCC"><span style="color:white;">That's a decent amount of time.</span></P></Sync>
+<Sync Start="2623800"><P class="ENCC"><span style="color:white;">Do you have any strategies,</span><br><span style="color:white;">going into the dome,</span></P></Sync>
+<Sync Start="2626240"><P class="ENCC"><span style="color:white;">other than trying not to guff?</span></P></Sync>
+<Sync Start="2628200"><P class="ENCC"><span style="color:yellow;">Erm, try to, er, differentiate</span><br><span style="color:yellow;">the silver from the gold,</span></P></Sync>
+<Sync Start="2631320"><P class="ENCC"><span style="color:yellow;">but I think it's going to be</span><br><span style="color:yellow;">easier said than done.</span></P></Sync>
+<Sync Start="2633520"><P class="ENCC"><span style="color:white;">Yes.  </span><span style="color:yellow;">It's something like that.  </span><span style="color:white;">It is</span><br><span style="color:white;">going to be easier said than done.</span></P></Sync>
+<Sync Start="2636960"><P class="ENCC"><span style="color:white;">The last bit of business to go</span><br><span style="color:white;">through is that on my first whistle,</span></P></Sync>
+<Sync Start="2640920"><P class="ENCC"><span style="color:white;">you start collecting tokens.</span></P></Sync>
+<Sync Start="2642440"><P class="ENCC"><span style="color:white;">On my second whistle,</span><br><span style="color:white;">desist from collecting tokens.</span></P></Sync>
+<Sync Start="2645960"><P class="ENCC"><span style="color:yellow;">OK.  </span><span style="color:white;">Do you need me to</span><br><span style="color:white;">repeat the rules?</span></P></Sync>
+<Sync Start="2648360"><P class="ENCC"><span style="color:yellow;">No.  </span><span style="color:cyan;">No.  </span><span style="color:white;">That's good.</span></P></Sync>
+<Sync Start="2650400"><P class="ENCC"><span style="color:white;">I now invite you to enter the dome.</span></P></Sync>
+<Sync Start="2652680"><P class="ENCC"><span style="color:yellow;">Thank you.  </span><span style="color:cyan;">Thank you.  </span><span style="color:white;">Thank you.</span></P></Sync>
+<Sync Start="2654200"><P class="ENCC"><span style="color:cyan;">Come on! Come on!</span></P></Sync>
+<Sync Start="2658200"><P class="ENCC"></P></Sync>
+<Sync Start="2658720"><P class="ENCC"><span style="color:white;">Good luck, team. Are you ready?</span></P></Sync>
+<Sync Start="2660800"><P class="ENCC"><span style="color:white;">ALL:  </span><span style="color:#11FF11;">Yes!</span></P></Sync>
+<Sync Start="2663000"><P class="ENCC"><span style="color:white;">For those about to collect tokens</span><br><span style="color:white;">in a multifaceted geodesic dome,</span></P></Sync>
+<Sync Start="2666840"><P class="ENCC"><span style="color:white;">I salute you.</span></P></Sync>
+<Sync Start="2668160"><P class="ENCC"><span style="color:white;">Will you start the fans, please?</span></P></Sync>
+<Sync Start="2672160"><P class="ENCC"></P></Sync>
+<Sync Start="2690480"><P class="ENCC"><span style="color:white;">20 seconds left.</span></P></Sync>
+<Sync Start="2694480"><P class="ENCC"></P></Sync>
+<Sync Start="2694760"><P class="ENCC"><span style="color:white;">15 seconds.</span></P></Sync>
+<Sync Start="2697640"><P class="ENCC"><span style="color:white;">Counting out now.</span></P></Sync>
+<Sync Start="2698960"><P class="ENCC"><span style="color:white;">Ten, nine,</span></P></Sync>
+<Sync Start="2700840"><P class="ENCC"><span style="color:white;">eight, seven,</span></P></Sync>
+<Sync Start="2702880"><P class="ENCC"><span style="color:white;">six, five,</span></P></Sync>
+<Sync Start="2704840"><P class="ENCC"><span style="color:white;">four, three,</span></P></Sync>
+<Sync Start="2706920"><P class="ENCC"><span style="color:white;">two,</span></P></Sync>
+<Sync Start="2707960"><P class="ENCC"><span style="color:white;">one.</span></P></Sync>
+<Sync Start="2711960"><P class="ENCC"></P></Sync>
+<Sync Start="2712480"><P class="ENCC"><span style="color:white;">Well done, team.</span><br><span style="color:cyan;">Oh, my God, that was hard.</span></P></Sync>
+<Sync Start="2716480"><P class="ENCC"></P></Sync>
+<Sync Start="2717400"><P class="ENCC"><span style="color:white;">Well done, adventurers.</span></P></Sync>
+<Sync Start="2719080"><P class="ENCC"><span style="color:white;">How do you feel you did?</span></P></Sync>
+<Sync Start="2721360"><P class="ENCC"><span style="color:yellow;">Well...  </span><span style="color:cyan;">Went for volume.</span></P></Sync>
+<Sync Start="2723080"><P class="ENCC"><span style="color:cyan;">Tough.  </span><span style="color:yellow;">It was difficult.</span></P></Sync>
+<Sync Start="2724320"><P class="ENCC"><span style="color:yellow;">It's anybody's game, really, but we</span><br><span style="color:yellow;">did our best, that's all we can do.</span></P></Sync>
+<Sync Start="2727240"><P class="ENCC"><span style="color:white;">You did your best.  </span><span style="color:yellow;">Yeah.</span><br><span style="color:white;">You're not sounding confident.</span></P></Sync>
+<Sync Start="2729600"><P class="ENCC"><span style="color:yellow;">When the adrenaline's going,</span><br><span style="color:yellow;">it's completely different.</span></P></Sync>
+<Sync Start="2731920"><P class="ENCC"><span style="color:white;">Yeah.  </span><span style="color:yellow;">When you're in there...</span><br><span style="color:cyan;">Actually grabbing hold of them.</span></P></Sync>
+<Sync Start="2734400"><P class="ENCC"><span style="color:#11FF11;">It's really difficult.</span><br><span style="color:cyan;">You have tactics and then...</span></P></Sync>
+<Sync Start="2736480"><P class="ENCC"><span style="color:white;">You're flapping around in there.</span><br><span style="color:cyan;">Yeah.</span></P></Sync>
+<Sync Start="2738400"><P class="ENCC"><span style="color:white;">It felt like you didn't have</span><br><span style="color:white;">a rock-solid technique.</span></P></Sync>
+<Sync Start="2741400"><P class="ENCC"><span style="color:yellow;">No.  </span><span style="color:white;">That wasn't even</span><br><span style="color:white;">an intentional pun.</span></P></Sync>
+<Sync Start="2744720"><P class="ENCC"><span style="color:white;">The first one of the night.</span></P></Sync>
+<Sync Start="2747320"><P class="ENCC"><span style="color:white;">Well, I can reveal...</span></P></Sync>
+<Sync Start="2749440"><P class="ENCC"><span style="color:white;">..that you got 74 gold tokens.</span></P></Sync>
+<Sync Start="2752240"><P class="ENCC"><span style="color:cyan;">Right.</span></P></Sync>
+<Sync Start="2753560"><P class="ENCC"><span style="color:white;">But there were silver ones there.</span></P></Sync>
+<Sync Start="2757320"><P class="ENCC"><span style="color:white;">There were 24.</span></P></Sync>
+<Sync Start="2759040"><P class="ENCC"><span style="color:white;">Which means you have just sneaked</span><br><span style="color:white;">a middling prize.</span></P></Sync>
+<Sync Start="2763040"><P class="ENCC"><span style="color:yellow;">Yes!  </span><span style="color:cyan;">Yes!  </span><span style="color:#11FF11;">Eyy!</span></P></Sync>
+<Sync Start="2764480"><P class="ENCC"><span style="color:white;">Right.  </span><span style="color:yellow;">Well done!</span></P></Sync>
+<Sync Start="2765640"><P class="ENCC"><span style="color:white;">You've won a family-style photo</span><br><span style="color:white;">shoot at Venture Photography.</span></P></Sync>
+<Sync Start="2769640"><P class="ENCC"><span style="color:white;">And not only that,</span></P></Sync>
+<Sync Start="2771200"><P class="ENCC"><span style="color:white;">you each take home</span><br><span style="color:white;">a commemorative crystal.</span></P></Sync>
+<Sync Start="2774720"><P class="ENCC"><span style="color:white;">That photo shoot, you could use</span><br><span style="color:white;">for an album cover.</span></P></Sync>
+<Sync Start="2778040"><P class="ENCC"><span style="color:yellow;">Yeah.  </span><span style="color:white;">Well, you've been excellent.</span><br><span style="color:white;">Thank you very much for playing.</span></P></Sync>
+<Sync Start="2781280"><P class="ENCC"><span style="color:cyan;">Thank you.  </span><span style="color:yellow;">Thank you, Richard.</span><br><span style="color:white;">Thank you for watching -</span></P></Sync>
+<Sync Start="2783600"><P class="ENCC"><span style="color:white;">if, indeed, you still are.</span></P></Sync>
+<Sync Start="2785680"><P class="ENCC"><span style="color:white;">Farewell.</span></P></Sync>
+<Sync Start="2789680"><P class="ENCC"></P></Sync>
+<Sync Start="2813560"><P class="ENCC"><span style="color:white;">Subtitles by Red Bee Media</span></P></Sync>
+<Sync Start="2820000"><P class="ENCC"></P></Sync>
+
+</Body>
+</SAMI>
